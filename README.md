@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .SUCKS one-word domains still available to buy.
 
-This dataset contains 4,873 .SUCKS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,874 .SUCKS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.SUCKS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=sucks-oneword-domains&utm_content=description.top) (4,874) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 

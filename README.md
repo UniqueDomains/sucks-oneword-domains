@@ -1,22 +1,22 @@
-# Available .SUCKS One-Word Domains (5,622,035)
+# Available .SUCKS One-Word Domains (9,752)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C752%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C035%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C752%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .sucks one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .sucks one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,752-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,035 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,752 rows · **Live catalog:** 5,622,035 domains
+**Public extract:** 9,752 rows · **Live catalog:** 9,752 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/sucks`  
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | slow.sucks       | resell    | —         | —             | 114            | 35     | 4      | GoDaddy.com, LLC |
 | nationwide.sucks | premium   | $2,728.70 | $2,728.70     | 76             | 66     | 10     | namecheap        |
 | digital.sucks    | available | $298      | —             | 100            | 50     | 7      | namecheap        |
-| apply.sucks      | resell    | —         | —             | 94             | 35     | 5      | GoDaddy.com, LLC |
+| apply.sucks      | resell    | —         | —             | 94             | 34     | 5      | GoDaddy.com, LLC |
 | power.sucks      | premium   | $2,728.70 | $2,728.70     | 98             | 62     | 5      | namecheap        |
-| forge.sucks      | available | $298      | —             | 62             | 45     | 5      | namecheap        |
-| shame.sucks      | resell    | —         | —             | 110            | 15     | 5      | GoDaddy.com, LLC |
+| creator.sucks    | available | $298      | —             | 70             | 45     | 7      | namecheap        |
+| shame.sucks      | resell    | —         | —             | 110            | 13     | 5      | GoDaddy.com, LLC |
 | seventeen.sucks  | premium   | $2,728.70 | $2,728.70     | 84             | 62     | 9      | namecheap        |
+| forge.sucks      | available | $298      | —             | 62             | 45     | 5      | namecheap        |
+| live.sucks       | premium   | $27,300   | $27,300       | 108            | 56     | 4      | namecheap        |
 | event.sucks      | available | $298      | —             | 96             | 44     | 5      | namecheap        |
-| live.sucks       | premium   | $27,300   | $27,300       | 108            | 55     | 4      | namecheap        |
-| nice.sucks       | available | $298      | —             | 86             | 44     | 4      | namecheap        |
 | good.sucks       | premium   | $2,728.70 | $2,728.70     | 82             | 55     | 4      | namecheap        |
-| creator.sucks    | available | $298      | —             | 70             | 44     | 7      | namecheap        |
-| zero.sucks       | premium   | $2,728.70 | $2,728.70     | 112            | 53     | 4      | namecheap        |
+| nice.sucks       | available | $298      | —             | 86             | 44     | 4      | namecheap        |
+| alpha.sucks      | premium   | $2,728.70 | $2,728.70     | 90             | 54     | 5      | namecheap        |
 | strategy.sucks   | available | $298      | —             | 74             | 43     | 8      | namecheap        |
-| business.sucks   | premium   | $2,728.70 | $2,728.70     | 100            | 53     | 8      | namecheap        |
-| eternal.sucks    | available | $298      | —             | 92             | 40     | 7      | namecheap        |
-| alpha.sucks      | premium   | $2,728.70 | $2,728.70     | 90             | 53     | 5      | namecheap        |
+| zero.sucks       | premium   | $2,728.70 | $2,728.70     | 112            | 53     | 4      | namecheap        |
 | custom.sucks     | available | $298      | —             | 110            | 39     | 6      | namecheap        |
+| business.sucks   | premium   | $2,728.70 | $2,728.70     | 100            | 53     | 8      | namecheap        |
+| eternal.sucks    | available | $298      | —             | 92             | 39     | 7      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,752-row public sample | 5,622,035 live domains                           |
+| 9,752-row public sample | 9,752 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

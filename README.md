@@ -67,17 +67,17 @@ print(df.head())
 | game.sucks       | available | $298      | —             | 120            | 50     | 4      | namecheap        |
 | slow.sucks       | resell    | —         | —             | 114            | 34     | 4      | GoDaddy.com, LLC |
 | nationwide.sucks | premium   | $2,728.70 | $2,728.70     | 76             | 66     | 10     | namecheap        |
-| digital.sucks    | available | $298      | —             | 100            | 50     | 7      | namecheap        |
+| digital.sucks    | available | $298      | —             | 100            | 49     | 7      | namecheap        |
 | apply.sucks      | resell    | —         | —             | 94             | 34     | 5      | GoDaddy.com, LLC |
 | power.sucks      | premium   | $2,728.70 | $2,728.70     | 98             | 62     | 5      | namecheap        |
 | creator.sucks    | available | $298      | —             | 70             | 45     | 7      | namecheap        |
 | shame.sucks      | resell    | —         | —             | 110            | 13     | 5      | GoDaddy.com, LLC |
 | seventeen.sucks  | premium   | $2,728.70 | $2,728.70     | 84             | 62     | 9      | namecheap        |
-| forge.sucks      | available | $298      | —             | 62             | 45     | 5      | namecheap        |
-| live.sucks       | premium   | $27,300   | $27,300       | 108            | 56     | 4      | namecheap        |
 | event.sucks      | available | $298      | —             | 96             | 44     | 5      | namecheap        |
-| good.sucks       | premium   | $2,728.70 | $2,728.70     | 82             | 55     | 4      | namecheap        |
+| live.sucks       | premium   | $27,300   | $27,300       | 108            | 56     | 4      | namecheap        |
 | nice.sucks       | available | $298      | —             | 86             | 44     | 4      | namecheap        |
+| good.sucks       | premium   | $2,728.70 | $2,728.70     | 82             | 55     | 4      | namecheap        |
+| forge.sucks      | available | $298      | —             | 62             | 44     | 5      | namecheap        |
 | zero.sucks       | premium   | $2,728.70 | $2,728.70     | 112            | 53     | 4      | namecheap        |
 | strategy.sucks   | available | $298      | —             | 74             | 43     | 8      | namecheap        |
 | business.sucks   | premium   | $2,728.70 | $2,728.70     | 100            | 53     | 8      | namecheap        |

@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .sucks one-word domains from Uniqu
 
 **Public extract:** 9,752 rows · **Live catalog:** 9,752 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/sucks`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | game.sucks       | available | $298      | —             | 120            | 50     | 4      | namecheap        |
-| slow.sucks       | resell    | —         | —             | 114            | 35     | 4      | GoDaddy.com, LLC |
+| slow.sucks       | resell    | —         | —             | 114            | 34     | 4      | GoDaddy.com, LLC |
 | nationwide.sucks | premium   | $2,728.70 | $2,728.70     | 76             | 66     | 10     | namecheap        |
 | digital.sucks    | available | $298      | —             | 100            | 50     | 7      | namecheap        |
 | apply.sucks      | resell    | —         | —             | 94             | 34     | 5      | GoDaddy.com, LLC |
@@ -78,11 +78,11 @@ print(df.head())
 | event.sucks      | available | $298      | —             | 96             | 44     | 5      | namecheap        |
 | good.sucks       | premium   | $2,728.70 | $2,728.70     | 82             | 55     | 4      | namecheap        |
 | nice.sucks       | available | $298      | —             | 86             | 44     | 4      | namecheap        |
-| alpha.sucks      | premium   | $2,728.70 | $2,728.70     | 90             | 54     | 5      | namecheap        |
-| strategy.sucks   | available | $298      | —             | 74             | 43     | 8      | namecheap        |
 | zero.sucks       | premium   | $2,728.70 | $2,728.70     | 112            | 53     | 4      | namecheap        |
-| custom.sucks     | available | $298      | —             | 110            | 39     | 6      | namecheap        |
+| strategy.sucks   | available | $298      | —             | 74             | 43     | 8      | namecheap        |
 | business.sucks   | premium   | $2,728.70 | $2,728.70     | 100            | 53     | 8      | namecheap        |
+| custom.sucks     | available | $298      | —             | 110            | 39     | 6      | namecheap        |
+| alpha.sucks      | premium   | $2,728.70 | $2,728.70     | 90             | 53     | 5      | namecheap        |
 | eternal.sucks    | available | $298      | —             | 92             | 39     | 7      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

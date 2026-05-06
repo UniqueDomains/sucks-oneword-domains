@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .sucks one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,744 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,744 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,744 domains · **Median ask:** $1,214.78 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/sucks`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,14 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Gmail.sucks        | premium   | —         | —             | 84             | 96     | 5      | —         |
+| jewels.sucks       | available | $298      | —             | 80             | 15     | 6      | namecheap |
+| iPhone.sucks       | premium   | —         | —             | 90             | 82     | 6      | —         |
+| dogsit.sucks       | available | $298      | —             | 96             | 2      | 6      | namecheap |
+| playin.sucks       | available | $298      | —             | 80             | 10     | 7      | namecheap |
+| pierogi.sucks      | available | $298      | —             | 82             | 7      | 7      | namecheap |
+| watches.sucks      | available | $298      | —             | 84             | 19     | 7      | namecheap |
+| Walmart.sucks      | premium   | —         | —             | 92             | 94     | 7      | —         |
 | agents.sucks       | available | $298      | —             | 56             | 50     | 6      | namecheap |
 | hotels.sucks       | premium   | $2,658.67 | $2,658.67     | 64             | 82     | 6      | namesilo  |
 | lets.sucks         | available | $298      | —             | 77             | 39     | 4      | namecheap |
@@ -76,14 +84,6 @@ print(df.head())
 | slots.sucks        | premium   | $2,658.67 | $2,658.67     | 49             | 31     | 5      | namesilo  |
 | maps.sucks         | available | $298      | —             | 56             | 31     | 4      | namecheap |
 | SanDiego.sucks     | premium   | $2,658.67 | $2,658.67     | 74             | 29     | 9      | namesilo  |
-| videos.sucks       | available | $298      | —             | 52             | 30     | 6      | namecheap |
-| heroes.sucks       | premium   | $2,938.60 | $2,938.60     | 68             | 29     | 6      | namecheap |
-| blocks.sucks       | available | $298      | —             | 53             | 29     | 6      | namecheap |
-| cams.sucks         | premium   | $2,658.67 | $2,658.67     | 52             | 29     | 4      | namesilo  |
-| chem.sucks         | available | $298      | —             | 74             | 24     | 4      | namecheap |
-| photos.sucks       | premium   | $2,938.60 | $2,938.60     | 54             | 28     | 6      | namecheap |
-| schools.sucks      | available | $298      | —             | 72             | 24     | 7      | namecheap |
-| superhero.sucks    | premium   | $2,938.60 | $2,938.60     | 84             | 23     | 9      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,744 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,744 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .sucks domains. The strongest candidates are generic words that are easy to read, easy to remember, and broad enough to support a clear use case or resale thesis. Examples like homes.sucks, jewels.sucks, and forces.sucks are more defensible than obvious brand terms such as Uber.sucks, Gmail.sucks, or Chanel.sucks, which can carry significant trademark exposure. When comparing these domains, start with pricing discipline: the median ask is $1,214.78. Then weigh memorability, commercial relevance, and legal risk. For founders, the key question is whether the term is ownable now. For investors, the key question is whether a generic word has realistic buyer interest at the ask.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize generic words over obvious trademark terms
+- Median ask across this selection is $1,214.78
+- Short, readable words tend to be easier to assess
+- Brand terms can carry much higher legal risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

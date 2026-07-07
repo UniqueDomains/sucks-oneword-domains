@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .sucks one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,744 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,744 domains · **Median ask:** $1,214.78 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,744 domains · **Median ask:** $2,331.16 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/sucks`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/sucks`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SUCKS one-word domain
 
 ### Files
 
-- `sucks.csv` — public CSV extract (1,000 rows)
-- `sucks.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `sucks.csv`, public CSV extract (1,000 rows)
+- `sucks.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Gmail.sucks        | premium   | —         | —             | 84             | 96     | 5      | —         |
-| jewels.sucks       | available | $298      | —             | 80             | 15     | 6      | namecheap |
-| iPhone.sucks       | premium   | —         | —             | 90             | 82     | 6      | —         |
-| dogsit.sucks       | available | $298      | —             | 96             | 2      | 6      | namecheap |
-| playin.sucks       | available | $298      | —             | 80             | 10     | 7      | namecheap |
-| pierogi.sucks      | available | $298      | —             | 82             | 7      | 7      | namecheap |
-| watches.sucks      | available | $298      | —             | 84             | 19     | 7      | namecheap |
-| Walmart.sucks      | premium   | —         | —             | 92             | 94     | 7      | —         |
-| agents.sucks       | available | $298      | —             | 56             | 50     | 6      | namecheap |
-| hotels.sucks       | premium   | $2,658.67 | $2,658.67     | 64             | 82     | 6      | namesilo  |
-| lets.sucks         | available | $298      | —             | 77             | 39     | 4      | namecheap |
-| makers.sucks       | premium   | $2,658.67 | $2,658.67     | 62             | 67     | 6      | namesilo  |
-| prompts.sucks      | available | $218.99   | $218.99       | 54             | 39     | 7      | namesilo  |
-| cars.sucks         | premium   | $2,938.60 | $2,938.60     | 66             | 47     | 4      | namecheap |
-| neuroscience.sucks | available | $298      | —             | 80             | 37     | 12     | namecheap |
-| events.sucks       | premium   | $2,938.60 | $2,938.60     | 68             | 37     | 6      | namecheap |
-| teams.sucks        | available | $298      | —             | 62             | 32     | 5      | namecheap |
-| slots.sucks        | premium   | $2,658.67 | $2,658.67     | 49             | 31     | 5      | namesilo  |
-| maps.sucks         | available | $298      | —             | 56             | 31     | 4      | namecheap |
-| SanDiego.sucks     | premium   | $2,658.67 | $2,658.67     | 74             | 29     | 9      | namesilo  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| awe.sucks  | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
+| ada.sucks  | premium   | $2,658.67 | $2,658.67     | medium         | medium | 3      | namesilo  |
+| bee.sucks  | available | $218.99   | $218.99       | high           | medium | 3      | namesilo  |
+| ben.sucks  | premium   | $2,658.67 | $2,658.67     | high           | medium | 3      | namesilo  |
+| Eid.sucks  | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
+| due.sucks  | premium   | $2,938.60 | $2,938.60     | high           | low    | 3      | namecheap |
+| ill.sucks  | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
+| fat.sucks  | premium   | $20,700   | $2,658.67     | medium         | low    | 3      | namesilo  |
+| opt.sucks  | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
+| fix.sucks  | premium   | $2,658.67 | $2,658.67     | medium         | low    | 3      | namesilo  |
+| ser.sucks  | available | $298      | —             | high           | low    | 3      | namecheap |
+| hit.sucks  | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
+| sly.sucks  | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
+| key.sucks  | premium   | $2,658.67 | $2,658.67     | high           | medium | 3      | namesilo  |
+| xvi.sucks  | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
+| let.sucks  | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
+| axle.sucks | available | $218.99   | $218.99       | high           | high   | 4      | namesilo  |
+| MMR.sucks  | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
+| beam.sucks | available | $218.99   | $218.99       | medium         | medium | 4      | namesilo  |
+| NYC.sucks  | premium   | $2,658.67 | $2,658.67     | high           | medium | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .sucks domains. The strongest candidates are generic words that are easy to read, easy to remember, and broad enough to support a clear use case or resale thesis. Examples like homes.sucks, jewels.sucks, and forces.sucks are more defensible than obvious brand terms such as Uber.sucks, Gmail.sucks, or Chanel.sucks, which can carry significant trademark exposure. When comparing these domains, start with pricing discipline: the median ask is $1,214.78. Then weigh memorability, commercial relevance, and legal risk. For founders, the key question is whether the term is ownable now. For investors, the key question is whether a generic word has realistic buyer interest at the ask.
+This list covers one-word .sucks domain names across everyday activities (takeabreak.sucks, keepfit.sucks), local services (landscaping.sucks, barup.sucks), and brand-adjacent terms (WhatsApp.sucks, Uber.sucks). With 12,744 names in this .sucks selection, pricing varies but the median ask sits near $2,331, giving a useful benchmark when comparing options. Because .sucks is a distinct, opinionated TLD, each domain's tone and clarity matter as much as length when weighing a purchase.
 
-- Prioritize generic words over obvious trademark terms
-- Median ask across this selection is $1,214.78
-- Short, readable words tend to be easier to assess
-- Brand terms can carry much higher legal risk
+- 12,744 one-word .sucks domains tracked in this selection
+- Median ask near $2,331 across this .sucks pool
+- Mix of everyday terms, services, and brand-style names
+- Updated daily for current pricing and availability signals
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

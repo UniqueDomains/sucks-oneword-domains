@@ -1,10 +1,10 @@
-# Available .SUCKS One-Word Domains (12,744)
+# Available .SUCKS One-Word Domains (12,748)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C744%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C748%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .sucks one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,744 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,748 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,744 domains · **Median ask:** $2,331.16 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,748 domains · **Median ask:** $2,107.54 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/sucks`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| awe.sucks  | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
-| ada.sucks  | premium   | $2,658.67 | $2,658.67     | medium         | medium | 3      | namesilo  |
-| bee.sucks  | available | $218.99   | $218.99       | high           | medium | 3      | namesilo  |
-| ben.sucks  | premium   | $2,658.67 | $2,658.67     | high           | medium | 3      | namesilo  |
-| Eid.sucks  | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
-| due.sucks  | premium   | $2,938.60 | $2,938.60     | high           | low    | 3      | namecheap |
-| ill.sucks  | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
-| fat.sucks  | premium   | $20,700   | $2,658.67     | medium         | low    | 3      | namesilo  |
-| opt.sucks  | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
-| fix.sucks  | premium   | $2,658.67 | $2,658.67     | medium         | low    | 3      | namesilo  |
-| ser.sucks  | available | $298      | —             | high           | low    | 3      | namecheap |
-| hit.sucks  | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
-| sly.sucks  | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
-| key.sucks  | premium   | $2,658.67 | $2,658.67     | high           | medium | 3      | namesilo  |
-| xvi.sucks  | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
-| let.sucks  | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
-| axle.sucks | available | $218.99   | $218.99       | high           | high   | 4      | namesilo  |
-| MMR.sucks  | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
-| beam.sucks | available | $218.99   | $218.99       | medium         | medium | 4      | namesilo  |
-| NYC.sucks  | premium   | $2,658.67 | $2,658.67     | high           | medium | 3      | namesilo  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| awe.sucks | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
+| ada.sucks | premium   | $2,658.67 | $2,658.67     | medium         | medium | 3      | namesilo  |
+| bee.sucks | available | $218.99   | $218.99       | high           | medium | 3      | namesilo  |
+| ben.sucks | premium   | $2,658.67 | $2,658.67     | high           | medium | 3      | namesilo  |
+| clx.sucks | available | $218.99   | $218.99       | low            | low    | 3      | namesilo  |
+| due.sucks | premium   | $2,938.60 | $2,938.60     | high           | low    | 3      | namecheap |
+| Eid.sucks | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
+| fat.sucks | premium   | $20,700   | $2,658.67     | medium         | low    | 3      | namesilo  |
+| fin.sucks | available | $218.99   | $218.99       | low            | low    | 3      | namesilo  |
+| fix.sucks | premium   | $2,658.67 | $2,658.67     | medium         | low    | 3      | namesilo  |
+| ill.sucks | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
+| hit.sucks | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
+| ixc.sucks | available | $278.98   | $298          | low            | low    | 3      | namecheap |
+| key.sucks | premium   | $2,658.67 | $2,658.67     | high           | medium | 3      | namesilo  |
+| opt.sucks | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
+| let.sucks | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
+| ser.sucks | available | $298      | —             | high           | low    | 3      | namecheap |
+| MMR.sucks | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
+| sly.sucks | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
+| NYC.sucks | premium   | $2,658.67 | $2,658.67     | high           | medium | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,744 live domains                        |
+| 1,000-row public sample | 12,748 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -1,41 +1,46 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-f91eb35d-7637-42c1-8ac5-2a8d5c1704db,stopgap.sucks,available,218.99,218.99,medium,low,7,namesilo,,,24/08/2026 13:27
+f91eb35d-7637-42c1-8ac5-2a8d5c1704db,stopgap.sucks,available,218.99,218.99,high,low,7,namesilo,,,24/08/2026 13:27
 aebeaa42-f3e3-4d72-abd2-bbf7226ec5a5,honeybee.sucks,premium,2728.7,2728.7,high,low,8,namecheap,,,19/09/2026 17:30
 2f715d1e-6b05-4141-9229-ecb8302fb7c4,backblast.sucks,available,218.99,218.99,medium,low,9,namesilo,,,21/09/2026 14:26
 b4330eb6-96b0-4741-b91d-ddee348b22ab,bleached.sucks,available,218.99,218.99,medium,low,8,namesilo,,,10/08/2026 13:52
 6070fd05-47d5-4c3e-8ac2-7ec465ae4404,original.sucks,available,218.99,218.99,high,low,8,namesilo,,,26/09/2026 00:32
+d6e2a29e-84be-43d8-89d4-f28e2270994e,bullshit.sucks,available,218.99,218.99,high,low,8,namesilo,,,29/09/2026 11:49
 aa3b0915-7ae1-4d2b-8395-b022ad08d996,ataractic.sucks,available,218.99,218.99,low,low,9,namesilo,,,07/08/2026 12:44
+c486a8ee-ff5e-48b6-ae29-6737ebe35cc2,refuges.sucks,available,278.98,298,medium,low,7,namecheap,,,30/09/2026 00:19
 ce00ec20-c69d-44df-817e-da9188689809,ironically.sucks,available,218.99,218.99,medium,low,10,namesilo,,,15/09/2026 09:24
 246a63d9-a77a-43c0-adae-bdbe3946a23a,savings.sucks,available,218.99,218.99,high,low,7,namesilo,,,28/09/2026 13:08
 8b955146-c4a9-4583-ac77-618923203726,arius.sucks,available,218.99,218.99,medium,low,5,namesilo,,,20/09/2026 06:03
 5ac88b39-c9fb-48ce-b112-f57a7eb1d810,catherine.sucks,available,218.99,218.99,high,low,9,namesilo,,,25/09/2026 04:07
-63c19f6d-4ec4-4a67-939a-bef083d40679,dishonour.sucks,available,218.99,218.99,medium,low,9,namesilo,,,
+63c19f6d-4ec4-4a67-939a-bef083d40679,dishonour.sucks,available,218.99,218.99,high,low,9,namesilo,,,29/09/2026 15:45
 d3a13b14-424d-47e8-b3b2-644042035b8d,gossip.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,24/09/2026 13:15
 dd4ce043-1c8c-4a68-acd3-006f1b8e0b53,jackfruit.sucks,available,278.98,298,high,low,9,namecheap,,,20/09/2026 11:58
 ae72f504-5cc0-4c76-8bcc-2c2e736c0096,grams.sucks,available,218.99,218.99,high,low,5,namesilo,,,18/09/2026 05:03
 b987c75e-5eca-4ffc-b663-3eaa7093f6e1,wipe.sucks,available,218.99,218.99,high,low,4,namesilo,,,27/09/2026 16:23
-2cb56229-ff94-4758-ac31-dca8a80e2186,fling.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,
+2cb56229-ff94-4758-ac31-dca8a80e2186,fling.sucks,premium,2198.9,2198.9,high,low,5,dynadot,,,29/09/2026 15:22
 41024c7c-40db-44e4-a941-0bad2e6b2f34,unmannered.sucks,available,218.99,218.99,low,low,10,namesilo,,,08/08/2026 07:28
 87789e1e-ebc6-4f53-87e9-12db1d4cb836,precocial.sucks,available,218.99,218.99,high,medium,9,namesilo,,,09/09/2026 01:15
 f36c1ca1-3110-4380-b1cf-d26d90bad752,affluence.sucks,premium,2198.9,2198.9,high,low,9,dynadot,,,28/09/2026 19:21
 e7ab26f1-ef69-4c6a-bec1-20f8b9078c06,acrostic.sucks,available,278.98,298,medium,low,8,namecheap,,,17/09/2026 03:59
+46fd567e-8e61-4b5c-bb93-0b595bd4b635,siegfried.sucks,premium,2658.67,2658.67,medium,low,9,namesilo,,,30/09/2026 02:51
 c5ee829a-b733-4ee4-b477-12c621debcbf,nuts.sucks,available,218.99,218.99,high,low,4,namesilo,,,22/09/2026 08:20
 6cf71f1b-ad35-4626-a299-ef4ccbeac373,miners.sucks,premium,2198.9,2198.9,medium,low,6,dynadot,,,28/09/2026 18:17
 a7ee1d77-bb88-46a0-b084-660aebc8213a,entrancing.sucks,available,218.99,218.99,medium,low,10,namesilo,,,09/08/2026 18:23
-5e709582-3f4b-4bb1-bb45-8010e46c2ec9,bottles.sucks,available,218.99,218.99,medium,low,7,namesilo,,,18/09/2026 04:05
+5e709582-3f4b-4bb1-bb45-8010e46c2ec9,bottles.sucks,available,218.99,218.99,high,low,7,namesilo,,,18/09/2026 04:05
 d0d31e71-1192-4f71-a61b-6e77102634ca,agrology.sucks,available,278.98,298,medium,low,8,namecheap,,,17/09/2026 19:36
+dd540216-b01c-4e34-bf6e-2f1d6cb12aa3,spartanburg.sucks,available,213.15,213.15,high,low,11,dynadot,,,29/09/2026 22:45
 a934f7c3-b55b-4828-b27c-dcdd92a0ad6d,disharmony.sucks,available,218.99,218.99,medium,low,10,namesilo,,,24/09/2026 22:38
 0e526339-19a4-4c32-9181-aec586781200,damages.sucks,premium,2658.67,2658.67,high,low,7,namesilo,,,18/09/2026 18:40
 6fdb0283-c1e4-4185-919b-8a65ee485efe,mike.sucks,premium,2938.6,2938.6,high,medium,4,namecheap,,,
 88abf365-0602-400a-82cc-4a1de0e86b84,ruttish.sucks,available,218.99,218.99,medium,low,7,namesilo,,,21/08/2026 14:10
 f2927ed3-834a-4756-a949-9ba9138d9ba6,stupe.sucks,available,218.99,218.99,medium,low,5,namesilo,,,10/09/2026 23:06
+5c24bb56-878b-4404-9db2-1a25ecdc8bae,chico.sucks,premium,2198.9,2198.9,high,low,5,dynadot,,,29/09/2026 18:18
 34f6bc64-e307-4054-9d12-c2be9052797e,alcaeus.sucks,available,218.99,218.99,medium,low,7,namesilo,,,18/09/2026 03:40
-1bc87ef3-a58e-4690-8773-6f8486289d87,lav.sucks,available,218.99,218.99,medium,low,3,namesilo,,,09/09/2026 02:16
+1bc87ef3-a58e-4690-8773-6f8486289d87,lav.sucks,available,218.99,218.99,high,low,3,namesilo,,,09/09/2026 02:16
 d22e4bac-ad68-403f-97ed-6285205e4247,valuable.sucks,available,218.99,218.99,high,low,8,namesilo,,,28/09/2026 10:06
 481f5c0d-249e-4b0d-aa62-905ec1c823af,fluorescence.sucks,available,218.99,218.99,medium,low,12,namesilo,,,27/09/2026 23:02
 b5fbbca5-3df3-421c-b61b-e50fe607a1b9,curfew.sucks,available,278.98,298,high,low,6,namecheap,,,24/09/2026 20:27
-1ab4483c-e39e-4808-a692-1d635c277bdf,mcnamara.sucks,available,278.98,298,medium,low,8,namecheap,,,27/09/2026 08:09
-b36110c5-d3d7-4214-bf91-7536a6d96cbf,shells.sucks,available,218.99,218.99,medium,low,6,namesilo,,,19/09/2026 01:23
+1ab4483c-e39e-4808-a692-1d635c277bdf,mcnamara.sucks,available,278.98,298,high,low,8,namecheap,,,27/09/2026 08:09
+b36110c5-d3d7-4214-bf91-7536a6d96cbf,shells.sucks,available,218.99,218.99,high,low,6,namesilo,,,19/09/2026 01:23
 80aefe26-3347-4393-9ea6-e36d88106527,viktor.sucks,premium,2198.9,2198.9,medium,low,6,dynadot,,,28/09/2026 07:43
 5bf839d0-d408-4e45-ada5-facb527e8ed1,kruger.sucks,premium,2658.67,2658.67,medium,low,6,namesilo,,,29/09/2026 01:31
 517b2184-83c8-406b-992d-78e3c3be25a4,ascendant.sucks,premium,2658.67,2658.67,high,low,9,namesilo,,,
@@ -49,13 +54,13 @@ c1837125-70a0-461d-952b-6d946ae2955b,downriver.sucks,available,278.98,298,medium
 74f5ef13-4602-4d9b-b72c-733e4b8e2cd0,fortissimo.sucks,available,218.99,218.99,high,low,10,namesilo,,,18/08/2026 12:41
 ac84b0c2-11f9-446c-af79-26bd7904e84d,avaram.sucks,available,218.99,218.99,medium,low,6,namesilo,,,21/09/2026 08:40
 66b46f99-49bc-4195-8626-b33597f5c111,betrayer.sucks,available,218.99,218.99,medium,low,8,namesilo,,,23/09/2026 11:31
-d2de4091-4633-4efa-be09-fec0d37bb8c6,ultimately.sucks,premium,20700,2658.67,medium,low,10,namesilo,,,28/09/2026 12:39
+d2de4091-4633-4efa-be09-fec0d37bb8c6,ultimately.sucks,premium,20700,2658.67,high,low,10,namesilo,,,28/09/2026 12:39
 44b579a8-3189-405c-9c76-123de8decd73,overrated.sucks,available,218.99,218.99,medium,low,10,namesilo,,,18/09/2026 11:36
 c5e7bf5e-2f34-4719-89c1-3f10e36740ba,rightish.sucks,available,218.99,218.99,medium,low,8,namesilo,,,09/09/2026 17:35
 0c4321b7-26f9-41a1-9848-b6ae710c0ba8,mist.sucks,available,218.99,218.99,high,low,4,namesilo,,,25/09/2026 23:43
 3907e836-ee45-449f-aa39-741903c0cc27,pecuniary.sucks,available,218.99,218.99,medium,low,9,namesilo,,,25/08/2026 04:35
 ab4f0b07-262a-4c8d-aa4c-fcb933d90114,assagai.sucks,available,218.99,218.99,medium,low,7,namesilo,,,20/09/2026 15:41
-6c7933e2-69b2-427b-bc6e-ab326d30c3cf,bifocal.sucks,available,278.98,298,medium,low,7,namecheap,,,09/08/2026 20:03
+6c7933e2-69b2-427b-bc6e-ab326d30c3cf,bifocal.sucks,available,278.98,298,high,low,7,namecheap,,,09/08/2026 20:03
 4c04489a-5951-4eb4-a793-5e2f0f37a4c4,issues.sucks,available,278.98,298,medium,low,6,namecheap,,,25/09/2026 21:11
 4b229fb8-2584-461a-82ad-c7f98cc528c2,apex.sucks,premium,2658.67,2658.67,high,medium,4,namesilo,,,19/09/2026 16:45
 bf2f4820-9b5b-4e6d-9d43-8953429ed21b,unfed.sucks,available,218.99,218.99,medium,low,5,namesilo,,,12/09/2026 10:04
@@ -63,6 +68,7 @@ d60ef14a-c44b-482f-b06a-31540588b03f,line.sucks,premium,2728.7,2728.7,high,mediu
 78843bcc-b8c0-4d04-86f0-f83b9ac90e50,ripely.sucks,available,218.99,218.99,medium,low,6,namesilo,,,15/09/2026 23:48
 f218642c-2d58-4406-879d-0c859f832e6c,retrieve.sucks,available,218.99,218.99,high,low,8,namesilo,,,
 fe1d7e8e-d659-4f99-ae2d-a678cd7bc2db,rosie.sucks,available,278.98,298,high,low,5,namecheap,,,27/09/2026 19:47
+b8aeae3e-034e-49e3-8971-1e36f3899728,hearn.sucks,available,218.99,218.99,high,low,5,namesilo,,,29/09/2026 15:40
 59a8166f-deb5-4e72-9335-f6e679ee85f7,behave.sucks,available,218.99,218.99,high,low,6,namesilo,,,
 83194a07-8014-461f-a0a9-330003617056,neural.sucks,available,218.99,218.99,high,low,6,namesilo,,,03/09/2026 16:09
 f4b9b515-4439-4c60-8f39-972e66864071,proved.sucks,available,218.99,218.99,high,low,6,namesilo,,,27/09/2026 07:48
@@ -80,6 +86,7 @@ e0eb9d1a-22d6-4b83-a313-c4ef126ade5f,unicorns.sucks,available,218.99,218.99,high
 a20a58e1-6b0d-404e-88a2-295bd8e9b903,battered.sucks,available,278.98,298,medium,low,8,namecheap,,,22/09/2026 18:12
 dc6c18d7-f54c-45d6-8561-067bb64a49b5,balefire.sucks,available,218.99,218.99,medium,low,8,namesilo,,,21/09/2026 21:52
 7e5752fd-663b-4beb-ac4c-f76dfe1aac3d,goddamned.sucks,available,218.99,218.99,medium,low,9,namesilo,,,10/08/2026 12:48
+b99a59b8-f6d4-497f-aeb3-af23c5baf713,rounding.sucks,available,218.99,218.99,high,low,8,namesilo,,,29/09/2026 13:53
 4ea665f7-345a-4109-a550-ffd66a8e1adc,quirky.sucks,available,218.99,218.99,high,low,6,namesilo,,,17/08/2026 22:23
 d143f8c4-e138-40ad-b87f-8a059d34d1f9,moss.sucks,premium,2728.7,2728.7,high,medium,4,namecheap,,,28/09/2026 14:55
 a5e5e5d8-7eca-46e1-bb2d-032164b90d66,approaching.sucks,available,218.99,218.99,high,low,11,namesilo,,,25/09/2026 11:21
@@ -91,13 +98,15 @@ ac69dd86-7c0c-4a63-9c16-c8dfb3aa990c,upbeat.sucks,premium,2658.67,2658.67,high,l
 9dbc4cd1-e173-4c37-88c1-1962f1705bb8,mohammedan.sucks,available,218.99,218.99,medium,low,10,namesilo,,,25/08/2026 03:23
 0617d737-1f4e-4021-a104-0fca1af8e910,flogging.sucks,available,278.98,298,medium,low,8,namecheap,,,22/08/2026 20:16
 e571397e-0f39-46d5-8758-76349587088a,ascending.sucks,available,218.99,218.99,high,low,9,namesilo,,,07/08/2026 00:51
-20a73fe8-2e5f-43c5-b519-927bb47bd3c8,hiram.sucks,available,213.15,213.15,medium,low,5,dynadot,,,27/09/2026 19:47
-97ed0b15-c6c9-4c8f-a3e4-88777ca4c905,wong.sucks,premium,2658.67,2658.67,medium,low,4,namesilo,,,26/09/2026 03:13
+20a73fe8-2e5f-43c5-b519-927bb47bd3c8,hiram.sucks,available,213.15,213.15,high,low,5,dynadot,,,27/09/2026 19:47
+97ed0b15-c6c9-4c8f-a3e4-88777ca4c905,wong.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,26/09/2026 03:13
 4cdd4412-efd7-422a-8460-ff22c9d3d188,moderating.sucks,available,218.99,218.99,medium,low,10,namesilo,,,25/08/2026 02:56
 d2a45463-416b-4270-bccc-a7b578dbe316,jingly.sucks,available,218.99,218.99,medium,low,6,namesilo,,,22/08/2026 13:29
 807bccb1-98a5-45e2-85d2-9cb57f17badb,greenhouse.sucks,premium,2728.7,2728.7,high,low,10,namecheap,,,20/08/2026 19:51
+e207aa39-adf5-40a5-9f71-21f451e47601,dedham.sucks,available,278.98,298,medium,low,6,namecheap,,,29/09/2026 22:43
 350226d1-d347-4791-89c9-c3823df68882,bait.sucks,available,218.99,218.99,high,low,4,namesilo,,,21/09/2026 19:42
 c74619ae-ed99-44a7-940e-456675fb23a9,suburban.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,11/09/2026 00:54
+e1146bf4-c1fd-4c4f-854e-6025e3d41c06,biol.sucks,available,218.99,218.99,high,low,4,namesilo,,,29/09/2026 16:48
 5182ba16-767a-4525-a552-792554033e55,terror.sucks,premium,2198.9,2198.9,high,low,6,dynadot,,,28/09/2026 19:24
 5d6e73a2-8abe-459c-b9d0-9e0e2a49d0ed,inadequate.sucks,available,218.99,218.99,medium,low,10,namesilo,,,22/08/2026 00:12
 0282fd49-e942-4433-bd51-ee26da3545a6,shorthand.sucks,available,218.99,218.99,high,medium,9,namesilo,,,10/09/2026 06:49
@@ -135,10 +144,13 @@ e7d193d0-3d96-4ad7-bb0a-4f3aa7f7f3c9,lupin.sucks,premium,2658.67,2658.67,high,lo
 a0f4642a-8b4e-4478-8c65-93e894055802,telescope.sucks,available,213.15,213.15,high,low,9,dynadot,,,28/09/2026 20:36
 86e3282f-9425-42e1-9574-da44d9556dd5,collection.sucks,available,213.15,213.15,high,low,10,dynadot,,,28/09/2026 20:22
 d79ff13c-3dc6-4294-ae7a-2d1bedf095dd,delinquent.sucks,available,218.99,218.99,medium,low,10,namesilo,,,14/08/2026 00:42
+2c5b79f8-ee3f-4068-9680-ce5d9b2388b6,ruptured.sucks,available,218.99,218.99,medium,low,8,namesilo,,,29/09/2026 16:06
 7c75f66f-68b2-4fb7-bdf7-893ae9c3a08a,screens.sucks,available,213.15,213.15,medium,low,7,dynadot,,,28/09/2026 07:05
 c464b297-0308-42ed-86ad-89fa6aa53fea,throttle.sucks,available,218.99,218.99,high,low,8,namesilo,,,16/09/2026 21:47
-f99b15ab-a317-4bc8-a58f-706fc7d31457,giza.sucks,available,218.99,218.99,high,low,4,namesilo,,,
+f99b15ab-a317-4bc8-a58f-706fc7d31457,giza.sucks,available,213.15,213.15,high,low,4,dynadot,,,29/09/2026 17:47
 38054d0c-4fa8-4cc3-aba0-59b0313f385c,patrick.sucks,premium,2658.67,2658.67,high,low,7,namesilo,,,25/09/2026 09:49
+637c9f00-ad9b-4052-8d51-824c742f54bb,sneaking.sucks,available,218.99,218.99,high,low,8,namesilo,,,29/09/2026 14:54
+8582032c-f6c7-45dd-9251-9709646b0453,narrates.sucks,available,205.46,213.14,medium,low,8,porkbun,,,29/09/2026 17:58
 8ac5e480-094c-403d-828e-984dc670df97,trains.sucks,available,218.99,218.99,high,low,6,namesilo,,,27/09/2026 22:59
 13248cbd-215c-4f99-9ad1-77185db0706c,facilitation.sucks,available,278.98,298,high,low,12,namecheap,,,17/09/2026 01:02
 abe640b2-9284-4f2a-ba49-95da8f4f4b07,activities.sucks,available,213.15,213.15,medium,low,10,dynadot,,,27/09/2026 22:27
@@ -149,7 +161,7 @@ af5a05d8-c442-4ecb-a227-f0a1de6a92ee,grouchy.sucks,available,218.99,218.99,mediu
 5520a48d-2265-41a2-a395-3f40cbc51345,satisfaction.sucks,premium,2658.67,2658.67,high,low,12,namesilo,,,28/09/2026 04:23
 e27e2091-4a75-448f-94bf-16803958fe69,coalescing.sucks,available,218.99,218.99,medium,low,10,namesilo,,,12/08/2026 13:53
 227d6333-ebb2-4e43-b911-401a1853fdf7,declared.sucks,available,278.98,298,high,low,8,namecheap,,,13/08/2026 21:46
-deb6499a-86d6-4cd0-9b4a-e70c62448c0f,avignon.sucks,available,218.99,218.99,medium,low,7,namesilo,,,21/09/2026 09:35
+deb6499a-86d6-4cd0-9b4a-e70c62448c0f,avignon.sucks,available,218.99,218.99,high,low,7,namesilo,,,21/09/2026 09:35
 41ad146e-f882-4162-96eb-9a1994af8cf3,ringer.sucks,premium,2728.7,2728.7,high,low,6,namecheap,,,23/09/2026 05:42
 48683591-4c45-4413-bebc-39af5d06296b,slighting.sucks,available,218.99,218.99,medium,low,9,namesilo,,,09/08/2026 13:15
 a5d6ae9c-f1ca-41d8-af1b-00a7ae2d98d4,discharged.sucks,available,218.99,218.99,medium,low,10,namesilo,,,14/08/2026 09:49
@@ -157,7 +169,8 @@ a5d6ae9c-f1ca-41d8-af1b-00a7ae2d98d4,discharged.sucks,available,218.99,218.99,me
 aae040f8-0415-4126-93cf-4de33fc83eb9,dolphin.sucks,available,218.99,218.99,high,low,7,namesilo,,,24/09/2026 23:22
 e29c187f-f3c5-43ea-8299-e7112a5bcd20,sorbed.sucks,available,218.99,218.99,medium,low,6,namesilo,,,10/09/2026 14:27
 4e00f4e2-aa80-4676-9d55-ecb5494ff664,stratified.sucks,available,218.99,218.99,medium,low,10,namesilo,,,09/08/2026 06:36
-a6030a4f-f6fe-446c-a377-a8dd8c090982,selfworth.sucks,available,218.99,218.99,high,low,10,namesilo,,,
+621ce95d-168f-48fb-ae3a-fd502b65d8bf,inscription.sucks,available,205.46,213.14,high,low,11,porkbun,,,29/09/2026 15:57
+a6030a4f-f6fe-446c-a377-a8dd8c090982,selfworth.sucks,available,218.99,218.99,high,low,10,namesilo,,,29/09/2026 14:57
 1261503b-0bee-4167-b236-be16762c64f1,boxer.sucks,premium,2182.75,2182.75,high,low,5,porkbun,,,28/09/2026 04:27
 5913098a-b900-415a-9587-da9cf89e3299,ghanaian.sucks,available,218.99,218.99,high,low,8,namesilo,,,18/08/2026 23:10
 47db3460-77c1-4f5e-ba69-d8a0d4375caa,pergola.sucks,available,218.99,218.99,medium,low,7,namesilo,,,20/09/2026 01:00
@@ -167,27 +180,32 @@ da992fb6-cafc-4832-9c8f-dd22911aaf93,hiemal.sucks,available,218.99,218.99,medium
 57fa78ca-99ec-400b-b794-aae06b00e3f5,realized.sucks,available,218.99,218.99,high,low,8,namesilo,,,23/09/2026 17:28
 d814806c-e6f4-4a6f-9af3-f16a1f49e0d8,weldon.sucks,available,278.98,298,medium,low,6,namecheap,,,28/09/2026 16:37
 3bc8ac9f-13bb-4c4e-a114-b4cc0786d751,revolting.sucks,available,218.99,218.99,medium,low,9,namesilo,,,14/08/2026 10:45
-b5e5acd4-2bb7-4064-a5d8-5fec9a7a52ad,nun.sucks,premium,2658.67,2658.67,high,low,3,namesilo,,,
+b5e5acd4-2bb7-4064-a5d8-5fec9a7a52ad,nun.sucks,premium,2658.67,2658.67,high,low,3,namesilo,,,29/09/2026 11:00
 3cf26d22-9221-4592-b6c5-0d0bab358f6e,confirmed.sucks,available,278.98,298,high,low,9,namecheap,,,23/09/2026 19:53
-06ae8a08-55ab-4a6e-937b-a657aa784747,browsing.sucks,available,218.99,218.99,high,low,8,namesilo,,,
+06ae8a08-55ab-4a6e-937b-a657aa784747,browsing.sucks,available,218.99,218.99,high,low,8,namesilo,,,29/09/2026 04:42
 a317847e-4882-4544-a1ae-70765c830986,walton.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,25/09/2026 05:07
 5eb4a199-242b-45a7-9853-bb44521095fa,baboon.sucks,available,218.99,218.99,high,low,6,namesilo,,,21/09/2026 12:58
 de1b271e-1f34-4316-896f-d23958bc1d0f,jennings.sucks,available,278.98,298,high,low,8,namecheap,,,25/09/2026 19:32
 d277bd33-69ee-4aa8-88e8-a206ecfd9af9,supports.sucks,available,218.99,218.99,high,low,8,namesilo,,,17/09/2026 06:20
 032eb43a-7f9d-4915-827e-e04cb3c94eec,exploited.sucks,available,218.99,218.99,medium,low,9,namesilo,,,08/09/2026 15:46
+facde591-c611-4c79-8f51-72a0748e93a7,jimenez.sucks,available,99.99,399.99,high,low,7,godaddy,,,30/09/2026 02:04
 058d215e-05ca-4d2a-a586-84f0745ff89e,alias.sucks,premium,2728.7,2728.7,high,low,5,namecheap,,,28/09/2026 11:26
 ea6950fe-3a52-4eac-a64a-9b961297c135,genesis.sucks,premium,2658.67,2658.67,high,medium,7,namesilo,,,29/09/2026 03:33
 4b1be45a-1773-4df6-80cc-70344f608158,indoors.sucks,available,218.99,218.99,high,low,7,namesilo,,,22/08/2026 07:03
+32522d41-424e-4d9d-919f-6882dc93afac,psd.sucks,premium,2182.75,2182.75,high,low,3,porkbun,,,29/09/2026 21:36
 36608fde-6dc5-47d4-a9a2-dbd5b1b5f6d1,abyla.sucks,available,218.99,218.99,medium,low,5,namesilo,,,16/09/2026 15:53
+3bc6d099-c3fa-427c-bc70-0b07ef50d5ac,disclose.sucks,available,278.98,298,high,low,8,namecheap,,,29/09/2026 20:42
 886a73e7-833e-473d-ba45-dd94f02e1203,marco.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,
 d1a7054c-1ebf-4bf1-b0ff-66f7d43a0ef3,seared.sucks,available,218.99,218.99,medium,low,6,namesilo,,,10/09/2026 00:52
 2c5a655c-7746-4e5d-ae48-ff66bf327620,unlikable.sucks,available,218.99,218.99,medium,low,9,namesilo,,,12/09/2026 00:58
 5e57742a-0bdb-4f7c-9597-4db5440e9e3c,konrad.sucks,available,218.99,218.99,medium,low,6,namesilo,,,28/09/2026 12:53
 1ca2bfab-248c-4ccd-b97e-e810a04ac2e5,subverter.sucks,available,218.99,218.99,medium,low,9,namesilo,,,09/09/2026 16:25
+e991ac1b-573d-496d-91e7-34867593fbdd,elves.sucks,available,213.15,213.15,high,low,5,dynadot,,,29/09/2026 18:45
 b2b2b7e4-1d1d-4b8b-ae09-4820a875d5ec,lapsed.sucks,available,218.99,218.99,medium,low,6,namesilo,,,22/08/2026 19:47
 942fd8ab-89ca-4367-83fc-695f8283b95b,funnily.sucks,available,278.98,298,medium,low,7,namecheap,,,14/09/2026 20:40
-8bbb7d15-ad70-4b92-b974-151036ce92d2,voices.sucks,premium,2938.6,2938.6,medium,low,6,namecheap,,,
+8bbb7d15-ad70-4b92-b974-151036ce92d2,voices.sucks,premium,2938.6,2938.6,high,low,6,namecheap,,,
 5f7ab707-0b49-455b-be86-a4bb4084c2ea,comics.sucks,premium,2938.6,2938.6,high,low,6,namecheap,,,
+5eb01b59-1bab-4353-a18d-274bf7d62ae8,dhs.sucks,premium,2198.9,2198.9,high,low,3,dynadot,,,29/09/2026 09:25
 ae2ca021-84db-4785-99af-d273c6763d78,dotty.sucks,available,278.98,298,medium,low,5,namecheap,,,06/08/2026 20:55
 a21a14d3-65e4-42c7-be76-3e8f0a4feae6,engulf.sucks,available,278.98,298,medium,low,6,namecheap,,,10/09/2026 19:51
 b6894023-852f-45b3-bd8a-3b7d7cd66a9b,auger.sucks,available,278.98,298,medium,low,5,namecheap,,,21/09/2026 03:19
@@ -197,6 +215,7 @@ b6894023-852f-45b3-bd8a-3b7d7cd66a9b,auger.sucks,available,278.98,298,medium,low
 590015cf-e450-497d-bb7d-48e4bae0df0f,topical.sucks,available,218.99,218.99,high,low,7,namesilo,,,11/09/2026 17:42
 20cc957f-e0b6-4bcc-b64f-5625056f1365,twinkle.sucks,available,218.99,218.99,high,low,7,namesilo,,,18/08/2026 06:46
 2614d581-12d8-4a8b-a7d1-350ebdfb6d08,bronzed.sucks,available,218.99,218.99,high,low,7,namesilo,,,11/08/2026 05:43
+12dad901-d1ee-4596-b0ef-de48d3672543,iced.sucks,available,218.99,218.99,high,low,4,namesilo,,,29/09/2026 14:21
 dbbb7e4a-211a-49d8-aaa9-39d27e9c1003,reliability.sucks,premium,2658.67,2658.67,high,low,11,namesilo,,,28/09/2026 04:00
 54efea52-7f21-445c-8bfa-9967715096c9,agamemnon.sucks,available,218.99,218.99,medium,low,9,namesilo,,,17/09/2026 16:06
 ee451b02-e7b7-4cdd-b2f5-80f0ce5c97ad,princeton.sucks,premium,2658.67,2658.67,high,low,9,namesilo,,,28/09/2026 10:45
@@ -207,7 +226,7 @@ fffb27db-c0fa-4553-b4e3-0587d46fd6d1,adversity.sucks,available,218.99,218.99,hig
 b23a5320-7129-47ed-91c7-f96cfad0e350,brick.sucks,premium,2198.9,2198.9,high,low,5,dynadot,,,27/09/2026 11:59
 161f8746-fcb0-4d8c-aff6-960f1f3e3dd1,sciolist.sucks,available,218.99,218.99,medium,low,8,namesilo,,,14/08/2026 07:43
 2034c8ad-3adc-4449-a047-a05f811048c0,teeming.sucks,available,218.99,218.99,medium,low,7,namesilo,,,11/09/2026 10:05
-974bcb29-c9b0-4dad-b79c-e0482d278123,cow.sucks,premium,2658.67,2658.67,high,low,3,namesilo,,,
+974bcb29-c9b0-4dad-b79c-e0482d278123,cow.sucks,premium,2658.67,2658.67,high,low,3,namesilo,,,29/09/2026 11:54
 9f66c864-b152-4fee-8c3e-9440231da383,arboreal.sucks,available,218.99,218.99,high,low,8,namesilo,,,06/08/2026 13:18
 b1cec2db-854d-4f52-8c90-447570cf974b,juiceless.sucks,available,218.99,218.99,medium,low,9,namesilo,,,22/08/2026 14:18
 0b79e133-3f0e-4120-ade5-617d767f77de,tush.sucks,available,218.99,218.99,medium,low,4,namesilo,,,09/08/2026 11:45
@@ -223,10 +242,11 @@ ab6c61aa-e7fb-4a1c-8936-1df15a8e7e6d,affirmation.sucks,available,218.99,218.99,h
 35636195-623a-4f2e-b1d3-c8f2c700c967,slapstick.sucks,available,218.99,218.99,high,low,9,namesilo,,,10/09/2026 10:03
 d7cef361-6945-4be0-abe3-bc93f576366d,directory.sucks,premium,2658.67,2658.67,high,low,9,namesilo,,,24/09/2026 22:24
 7baedc04-8f65-48c9-a6e1-328d4ed4c6b3,ecuadorian.sucks,available,218.99,218.99,high,low,10,namesilo,,,22/08/2026 01:40
-b0eec14b-db4c-4ebb-b5e2-d998b9507132,ecological.sucks,available,278.98,298,high,low,10,namecheap,,,22/09/2026 21:01
+b0eec14b-db4c-4ebb-b5e2-d998b9507132,ecological.sucks,available,213.15,213.15,high,low,10,dynadot,,,29/09/2026 21:02
 7e642946-02da-4c35-9da7-2b0b90093fcc,striation.sucks,available,218.99,218.99,medium,low,9,namesilo,,,22/09/2026 01:19
 419bb0dc-29f1-498b-af01-0e7e5721f701,artists.sucks,premium,2182.75,2182.75,high,low,7,porkbun,,,28/09/2026 00:02
-90994c9e-c547-4112-b601-3b19fcceb08d,boulder.sucks,premium,2728.7,2728.7,medium,low,7,namecheap,,,28/09/2026 13:35
+e6c7898d-b4f3-4b13-a7a9-9f85cda5eee1,interpreter.sucks,premium,2658.67,2658.67,high,low,11,namesilo,,,29/09/2026 08:27
+90994c9e-c547-4112-b601-3b19fcceb08d,boulder.sucks,premium,2728.7,2728.7,high,low,7,namecheap,,,28/09/2026 13:35
 19fc1d19-0abb-40c9-800d-9b8b15576a89,marlborough.sucks,available,218.99,218.99,medium,low,11,namesilo,,,27/09/2026 01:35
 056c1268-2ceb-40b0-9d28-d1f1d8f0f633,silken.sucks,available,218.99,218.99,high,low,6,namesilo,,,09/09/2026 21:43
 826c01fe-7b1d-44b8-93d7-76d7d459016d,unwell.sucks,premium,2728.7,2728.7,medium,low,6,namecheap,,,
@@ -241,19 +261,24 @@ ab202384-950d-43ce-b6e7-1b767de3caad,truncheon.sucks,available,218.99,218.99,med
 3f37c0b6-e5b8-41bb-855c-a81aeb74570d,emmett.sucks,available,278.98,298,medium,low,6,namecheap,,,28/09/2026 08:01
 8d2f7953-9b79-4868-b214-8d904f3c73f4,sunk.sucks,available,218.99,218.99,medium,low,4,namesilo,,,11/09/2026 01:50
 5641184b-65f1-4a30-8e4b-5db6285765dd,cxx.sucks,available,218.99,218.99,high,low,3,namesilo,,,
-3e182281-e1e2-44c5-b0b8-9fb576da2e64,beat.sucks,premium,2728.7,2728.7,high,low,4,namecheap,,,22/09/2026 18:37
+3e182281-e1e2-44c5-b0b8-9fb576da2e64,beat.sucks,premium,2728.7,2728.7,high,low,4,namecheap,,,29/09/2026 18:38
 ec598b3f-20ee-4f9a-9c22-cc3349d42e1c,uncounted.sucks,available,218.99,218.99,high,low,9,namesilo,,,13/08/2026 03:44
 4d5ee614-3259-4592-ad4e-9a9eaf6856ab,retarded.sucks,available,218.99,218.99,medium,low,8,namesilo,,,27/09/2026 13:11
+d8d3bb49-0e3d-4493-b066-2c0d895ce674,reinforce.sucks,available,278.98,298,high,low,9,namecheap,,,29/09/2026 20:46
 03d19da5-fd46-4225-9c9e-4013c88216e5,praetorian.sucks,premium,2658.67,2658.67,high,medium,10,namesilo,,,09/09/2026 00:58
 f3ea05fc-4bdf-4d10-9191-af90b3bda6db,unfair.sucks,available,218.99,218.99,high,low,6,namesilo,,,28/09/2026 09:45
 dd9a7b8c-3cbb-4111-a6e4-66053b9da64b,paragon.sucks,premium,2728.7,2728.7,high,low,7,namecheap,,,03/09/2026 20:09
 b13d1aab-3199-47b7-bfdc-ba180623baca,macarthur.sucks,available,278.98,298,high,low,9,namecheap,,,25/09/2026 20:07
 e3963aa5-2fc5-400f-a3b4-e454608c11de,aplysia.sucks,available,278.98,298,medium,low,7,namecheap,,,19/09/2026 17:53
-2172fe2a-0743-4ccd-a4ff-96e01cec9d90,equally.sucks,available,213.15,213.15,medium,low,7,dynadot,,,28/09/2026 12:20
+2172fe2a-0743-4ccd-a4ff-96e01cec9d90,equally.sucks,available,213.15,213.15,high,low,7,dynadot,,,28/09/2026 12:20
 3d2d9902-58ce-4aee-abaa-d8b10286d14c,zealous.sucks,available,218.99,218.99,high,low,7,namesilo,,,13/09/2026 15:10
+2d771195-abec-4064-9a15-d9be0f3c82ca,booty.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,29/09/2026 11:44
+8df84193-0cd5-4693-b803-2ac3d487d68b,battling.sucks,available,213.15,213.15,high,low,8,dynadot,,,29/09/2026 09:02
 5207c361-eb36-45f1-957b-ae5be01b0be7,suffer.sucks,available,213.15,213.15,medium,low,6,dynadot,,,28/09/2026 17:46
-c188f05e-d5e5-48ec-884d-3e9cd2d3f714,underwater.sucks,available,278.98,298,medium,low,11,namecheap,,,16/09/2026 17:58
-76c7c6c4-acd3-4b56-a3b9-61fc13e5532b,hipaa.sucks,available,218.99,218.99,medium,low,5,namesilo,,,
+c188f05e-d5e5-48ec-884d-3e9cd2d3f714,underwater.sucks,available,278.98,298,high,low,11,namecheap,,,16/09/2026 17:58
+eb58e6e9-734f-4283-a41e-325c29fab880,meditation.sucks,available,218.99,218.99,high,low,10,namesilo,,,29/09/2026 07:35
+76c7c6c4-acd3-4b56-a3b9-61fc13e5532b,hipaa.sucks,available,218.99,218.99,high,low,5,namesilo,,,
+b47119dc-3594-4cf9-a3e0-828b6257799a,talladega.sucks,available,218.99,218.99,medium,low,9,namesilo,,,29/09/2026 22:45
 f2a17c9f-d26b-4330-a726-591b9358a874,babies.sucks,available,218.99,218.99,high,low,6,namesilo,,,
 db0744d0-acf5-4bd5-8416-334e523357f3,agronomic.sucks,available,218.99,218.99,medium,low,9,namesilo,,,
 3f569dcc-8486-4e28-b8f0-43a3d5ca282f,experimentation.sucks,available,278.98,298,high,low,15,namecheap,,,28/09/2026 03:41
@@ -264,41 +289,45 @@ f2e14225-fa23-4027-ba47-2b3c070ad80e,meadow.sucks,available,218.99,218.99,high,l
 52f5b624-09e6-4182-abba-d5fd7dc16d28,unshelled.sucks,available,218.99,218.99,high,medium,9,namesilo,,,10/09/2026 06:23
 2b368cff-18eb-4efe-a661-76573d0ca153,structures.sucks,available,218.99,218.99,medium,low,10,namesilo,,,
 db1776f8-6a81-415c-9494-71ce372d0b53,council.sucks,available,278.98,298,high,low,7,namecheap,,,24/09/2026 18:38
-65cd5a7c-d092-4cf6-9638-2e17b149b9c3,revolution.sucks,premium,2938.6,2938.6,high,low,10,namecheap,,,
+65cd5a7c-d092-4cf6-9638-2e17b149b9c3,revolution.sucks,premium,2658.67,2658.67,high,low,10,namesilo,,,29/09/2026 21:55
 b6ea6068-9c69-47ac-a0f4-e9d4aecbb30b,admiralty.sucks,premium,2658.67,2658.67,medium,low,9,namesilo,,,17/09/2026 08:53
-52f10f80-cd34-40e4-b914-c161e23a8a77,palatal.sucks,available,218.99,218.99,medium,low,7,namesilo,,,04/09/2026 23:18
+52f10f80-cd34-40e4-b914-c161e23a8a77,palatal.sucks,available,218.99,218.99,high,low,7,namesilo,,,04/09/2026 23:18
 1afd1776-ecc8-4c8f-bd8c-9eae547ff729,develop.sucks,available,218.99,218.99,high,low,7,namesilo,,,
-024ef5c7-4a44-4405-97e0-0c4b8e7d2a54,norseman.sucks,available,218.99,218.99,medium,low,8,namesilo,,,03/09/2026 21:43
+b6ca31be-11a0-4711-a13f-f0e4f2c06756,drawers.sucks,available,218.99,218.99,medium,low,7,namesilo,,,29/09/2026 06:06
+024ef5c7-4a44-4405-97e0-0c4b8e7d2a54,norseman.sucks,available,218.99,218.99,high,low,8,namesilo,,,03/09/2026 21:43
 d2547d6f-bc80-462b-9203-15bcf2080b3b,inhabit.sucks,available,218.99,218.99,high,low,7,namesilo,,,24/08/2026 07:51
 6f998744-9491-4abb-9df6-1e7d23867494,redress.sucks,available,218.99,218.99,high,low,7,namesilo,,,09/09/2026 17:27
 c2aa6aed-75b7-41ed-815d-f4acdaed9072,guangdong.sucks,available,218.99,218.99,medium,low,9,namesilo,,,28/09/2026 09:58
 a8a2888f-f213-4dfe-971b-b08dbe332fa7,bosnian.sucks,available,278.98,298,high,low,7,namecheap,,,10/08/2026 20:21
+9ae8f97e-e90e-495d-8d15-25639f466fbc,heavier.sucks,available,278.98,298,low,low,7,namecheap,,,29/09/2026 04:51
 60300813-3d75-4cef-8764-1dbaab9a0af9,finical.sucks,available,218.99,218.99,medium,low,7,namesilo,,,18/08/2026 04:56
 f88af292-ff98-41a4-b059-b525f12fc669,deface.sucks,available,218.99,218.99,medium,low,6,namesilo,,,24/09/2026 05:35
 c6e52747-8520-44f2-9665-a5f676d38dcf,naturally.sucks,available,218.99,218.99,high,low,9,namesilo,,,28/09/2026 13:42
 e5a87911-c700-4134-b91b-8a69c19475ec,dropping.sucks,available,218.99,218.99,high,low,8,namesilo,,,14/08/2026 19:47
 d81987f4-f6db-4da4-b6ff-164d3cf6fa11,blanquillo.sucks,available,218.99,218.99,medium,low,10,namesilo,,,24/09/2026 04:04
 10e55ca0-515a-4fc9-b391-a46e40d5b993,mistflower.sucks,available,218.99,218.99,medium,low,10,namesilo,,,17/09/2026 17:17
-8f7d0767-9208-4e9f-a478-b0e02377a3e5,visions.sucks,premium,2198.9,2198.9,medium,low,7,dynadot,,,27/09/2026 23:41
+8f7d0767-9208-4e9f-a478-b0e02377a3e5,visions.sucks,premium,2198.9,2198.9,high,low,7,dynadot,,,27/09/2026 23:41
 42151e86-e593-4cff-822a-cf94bc612c72,auctioneer.sucks,available,218.99,218.99,high,low,10,namesilo,,,21/09/2026 02:42
 8f10a990-2aef-44c2-8560-0e5adc131864,remind.sucks,available,278.98,298,high,low,6,namecheap,,,24/09/2026 20:14
 d16bf366-1e13-4a02-84c4-4b587fb11f19,nonplussed.sucks,available,218.99,218.99,medium,low,10,namesilo,,,07/08/2026 10:48
 1585a2df-6ab5-4b61-9beb-02296652ec29,thaw.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,24/08/2026 19:45
-86381628-efb3-4925-9de7-81e8ef0b11f6,critique.sucks,available,298,,high,low,8,namecheap,,,
+86381628-efb3-4925-9de7-81e8ef0b11f6,critique.sucks,available,218.99,218.99,high,low,8,namesilo,,,29/09/2026 12:05
 7fff04de-dace-4d26-88f9-87ddc8afca70,retractile.sucks,available,218.99,218.99,medium,low,10,namesilo,,,09/09/2026 15:42
 f625fdad-8408-4393-916d-9920c1fa9d12,banking.sucks,premium,13800,2658.67,high,low,7,namesilo,,,29/09/2026 01:02
 45e9109f-6a8d-40b6-b987-5ad9884f5f1f,ammonite.sucks,available,218.99,218.99,high,low,8,namesilo,,,18/09/2026 22:08
-161cb8de-5334-4683-ab00-b2e4ae3f7a0c,mugwump.sucks,available,218.99,218.99,medium,low,7,namesilo,,,22/08/2026 02:43
+161cb8de-5334-4683-ab00-b2e4ae3f7a0c,mugwump.sucks,available,218.99,218.99,high,low,7,namesilo,,,22/08/2026 02:43
 883e39f3-72c5-48b8-9f4a-b25a5af61af1,adoringly.sucks,available,218.99,218.99,medium,low,9,namesilo,,,13/09/2026 17:23
 a8a22445-af02-4909-8c39-125a20773946,saves.sucks,available,218.99,218.99,medium,low,5,namesilo,,,28/09/2026 09:04
 35b69663-d6bf-450a-af8a-9f506a63130b,applet.sucks,available,278.98,298,high,low,6,namecheap,,,19/09/2026 21:38
 54d5776b-2a88-4859-a9aa-79e4427bb787,miami.sucks,premium,2658.67,2658.67,high,medium,5,namesilo,,,25/09/2026 09:20
 ef7f69df-e408-44c5-99e9-f5fea5617a32,family.sucks,premium,2658.67,2658.67,high,medium,6,namesilo,,,25/09/2026 12:40
+7f516667-05a6-4d35-bd2b-c536a51a3b66,silvia.sucks,available,218.99,218.99,medium,low,6,namesilo,,,29/09/2026 12:28
 adfe9d66-8c8e-43aa-a3eb-17ff7ef22e1d,organs.sucks,available,218.99,218.99,high,low,6,namesilo,,,
+5f3f5a9e-09f9-4765-bc04-6a457e4e8d47,honours.sucks,available,205.46,213.14,high,low,7,porkbun,,,30/09/2026 01:53
 ca71bf2b-56a5-48ea-a829-4e03f9a4af41,notional.sucks,available,278.98,298,high,low,8,namecheap,,,12/08/2026 20:01
 41134cad-9ca1-40ac-bdc7-80dfb413c4d7,assertion.sucks,premium,2658.67,2658.67,high,low,9,namesilo,,,20/09/2026 16:14
 f1a4a4c9-e7e0-4283-9253-092ecdf6fae0,hostelry.sucks,available,278.98,298,medium,low,8,namecheap,,,21/09/2026 02:26
-a490f78e-b217-4a15-828a-f7f58257482a,alaric.sucks,available,218.99,218.99,medium,low,6,namesilo,,,18/09/2026 01:52
+a490f78e-b217-4a15-828a-f7f58257482a,alaric.sucks,available,218.99,218.99,high,low,6,namesilo,,,18/09/2026 01:52
 12615efd-a24c-4249-b8a7-a787fe1a7af4,barbell.sucks,available,278.98,298,high,low,7,namecheap,,,22/09/2026 04:49
 713209cf-2d78-4f05-ac00-894668958467,uniting.sucks,available,218.99,218.99,high,low,7,namesilo,,,18/09/2026 15:39
 91c69cce-3d56-41b8-9c5e-de0940855b5a,koestler.sucks,available,218.99,218.99,medium,low,8,namesilo,,,20/09/2026 10:57
@@ -309,30 +338,31 @@ e966e76d-82cc-4465-bce3-6af1b8ee1d4a,copycat.sucks,available,218.99,218.99,high,
 095ca95c-818b-40f0-b815-53d08713b29b,liver.sucks,available,218.99,218.99,high,low,5,namesilo,,,24/08/2026 08:02
 4c2c1e3f-2463-47fe-a107-7a4e82a0eb56,untrustworthy.sucks,available,218.99,218.99,medium,low,13,namesilo,,,
 11d4cc66-902f-4b76-850b-2913aa4ed9dc,trite.sucks,available,218.99,218.99,medium,low,5,namesilo,,,08/08/2026 11:19
-ee1bf6ab-aa95-4054-8528-431152a436ed,atacama.sucks,available,218.99,218.99,medium,low,7,namesilo,,,
-cce7f453-663c-4190-99e0-26fbc75db8d8,kindled.sucks,available,218.99,218.99,medium,low,7,namesilo,,,17/08/2026 09:33
-7b066260-336f-4eb3-b483-02d4bab173d6,antiacid.sucks,available,278.98,298,medium,low,8,namecheap,,,22/09/2026 05:47
+ee1bf6ab-aa95-4054-8528-431152a436ed,atacama.sucks,available,218.99,218.99,high,low,7,namesilo,,,
+cce7f453-663c-4190-99e0-26fbc75db8d8,kindled.sucks,available,218.99,218.99,high,low,7,namesilo,,,17/08/2026 09:33
+7b066260-336f-4eb3-b483-02d4bab173d6,antiacid.sucks,available,278.98,298,high,low,8,namecheap,,,22/09/2026 05:47
 bab91bdb-dca8-4040-8dad-8758f7fe9d12,reduced.sucks,available,218.99,218.99,medium,low,7,namesilo,,,13/08/2026 22:10
 2360e6d6-def4-4417-9ece-7d5e67f27566,descendant.sucks,available,218.99,218.99,high,low,10,namesilo,,,14/08/2026 03:14
 db9fbdb8-4037-4a49-8b0a-43e563f683a3,rugose.sucks,available,278.98,298,high,medium,6,namecheap,,,09/09/2026 19:20
-d9949efe-cdd1-4de3-83c5-8236e59216ed,wuhan.sucks,available,218.99,218.99,medium,low,5,namesilo,,,29/09/2026 02:39
-5c1b2f1e-b6a2-4bfd-9ad7-b7232a2ebcb8,zarqa.sucks,available,218.99,218.99,medium,low,5,namesilo,,,21/09/2026 10:58
+d9949efe-cdd1-4de3-83c5-8236e59216ed,wuhan.sucks,available,218.99,218.99,high,low,5,namesilo,,,29/09/2026 02:39
+5c1b2f1e-b6a2-4bfd-9ad7-b7232a2ebcb8,zarqa.sucks,available,218.99,218.99,high,low,5,namesilo,,,21/09/2026 10:58
 b2cc9ef6-49b2-4de0-9455-efef824b4a3b,gripping.sucks,available,218.99,218.99,high,low,8,namesilo,,,21/09/2026 15:05
 b9b38ccb-e69a-49c9-8d11-cdba44bfcd18,homing.sucks,available,218.99,218.99,medium,low,6,namesilo,,,21/08/2026 12:35
 9c4d086c-61d7-42bb-8a5b-83e3850cb25f,advise.sucks,available,218.99,218.99,high,low,6,namesilo,,,27/09/2026 03:36
 1358ce3c-c8eb-4989-aace-9e9d6b68dad1,napoleonic.sucks,available,218.99,218.99,medium,low,10,namesilo,,,03/09/2026 13:00
-0055b3fe-237d-44d6-8d57-20ea0ca28e2e,attended.sucks,available,218.99,218.99,medium,low,8,namesilo,,,22/09/2026 11:17
+0055b3fe-237d-44d6-8d57-20ea0ca28e2e,attended.sucks,available,218.99,218.99,high,low,8,namesilo,,,22/09/2026 11:17
 475706db-0636-4e93-82cc-0711e9b846a8,attired.sucks,available,218.99,218.99,medium,low,7,namesilo,,,06/08/2026 04:47
 4029c63b-8fd3-4fbd-bbb4-b526fd6bf406,poitiers.sucks,available,218.99,218.99,medium,low,8,namesilo,,,22/09/2026 15:48
 1cce0bd1-434f-4cde-835f-1587e19a18ff,arboreous.sucks,available,218.99,218.99,medium,low,9,namesilo,,,06/08/2026 12:59
-e31beca3-f364-4c1f-81f8-b116d63ee096,bronte.sucks,available,218.99,218.99,medium,low,6,namesilo,,,19/09/2026 10:16
-3640048b-6b44-4def-a0bd-9808d55982b4,broadcasting.sucks,premium,2658.67,2658.67,medium,low,12,namesilo,,,28/09/2026 12:27
+e31beca3-f364-4c1f-81f8-b116d63ee096,bronte.sucks,available,218.99,218.99,high,low,6,namesilo,,,19/09/2026 10:16
+3fe91475-8e18-4900-acb7-8ef0a51f0e44,emerge.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,29/09/2026 06:43
+3640048b-6b44-4def-a0bd-9808d55982b4,broadcasting.sucks,premium,2658.67,2658.67,high,low,12,namesilo,,,28/09/2026 12:27
 1bdf56b1-4874-49b4-91b9-dbe67d9a638f,rory.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,28/09/2026 03:38
-95151161-b99a-4e0c-ba8f-f84a2f677c81,introduce.sucks,available,218.99,218.99,high,low,9,namesilo,,,
+95151161-b99a-4e0c-ba8f-f84a2f677c81,introduce.sucks,available,218.99,218.99,high,low,9,namesilo,,,30/09/2026 00:04
 d42c5dcf-f52c-443b-abfe-007bc58f78f9,autogiro.sucks,available,218.99,218.99,medium,low,8,namesilo,,,21/09/2026 06:22
 04ecc77a-fdba-4732-8d3f-1465b9d672a1,competency.sucks,available,218.99,218.99,high,low,10,namesilo,,,24/09/2026 16:48
 c80666ea-45f0-40c3-997f-3a5b761bc0f8,inheritance.sucks,available,213.15,213.15,high,low,11,dynadot,,,28/09/2026 12:28
-5aaa0ce7-6fd2-4cfa-9ab0-42421a601042,vest.sucks,available,218.99,218.99,medium,low,4,namesilo,,,28/09/2026 10:51
+5aaa0ce7-6fd2-4cfa-9ab0-42421a601042,vest.sucks,available,218.99,218.99,high,low,4,namesilo,,,28/09/2026 10:51
 d6f55080-00ba-4f4b-b44c-d09ebe5f6aa1,wheedle.sucks,available,218.99,218.99,medium,low,7,namesilo,,,24/09/2026 04:07
 676bd3f5-0d29-4c9f-97fa-92914a557e36,annulment.sucks,available,218.99,218.99,medium,low,9,namesilo,,,16/09/2026 17:16
 8b9781a3-27a7-4493-92f7-99b9c305cda3,serpent.sucks,available,218.99,218.99,medium,low,7,namesilo,,,29/09/2026 01:45
@@ -343,22 +373,25 @@ b584ef5c-a218-41c6-8ec4-8d945a00aef8,purifying.sucks,available,218.99,218.99,hig
 a580dfee-0679-4bf9-b0c6-a19c475a42f1,amsterdam.sucks,premium,2728.7,2728.7,high,low,9,namecheap,,,19/09/2026 00:08
 0425ee88-d9ad-4403-a7f9-bc1238476c0f,turing.sucks,available,218.99,218.99,high,low,6,namesilo,,,18/09/2026 01:45
 f9132c73-f954-463e-873f-2484a8c5efa2,stupidity.sucks,available,218.99,218.99,medium,low,9,namesilo,,,23/09/2026 11:18
+3b13da6a-bb01-478f-af36-481e6944e7f3,originated.sucks,available,218.99,218.99,medium,low,10,namesilo,,,29/09/2026 23:39
 cd17d37a-ecf1-4bea-a9ca-62ff50bee8a8,angiogram.sucks,available,218.99,218.99,medium,low,9,namesilo,,,19/09/2026 06:13
 eae842ac-65c7-421b-bbad-a189c4d88be8,lay.sucks,available,218.99,218.99,high,low,3,namesilo,,,25/09/2026 13:03
 7ea502e9-041c-46dd-9202-ec08e7f333b9,baron.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,22/09/2026 07:01
 4e8c595d-7609-4ec1-9df4-9fd432df9ac2,laredo.sucks,premium,2658.67,2658.67,medium,low,6,namesilo,,,28/09/2026 19:41
 ad8b800f-e1d2-410a-a422-5130d76adc6b,snug.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,12/08/2026 12:11
+ee07860e-cb34-498e-b704-106b608a96b0,torrey.sucks,available,218.99,218.99,high,low,6,namesilo,,,29/09/2026 09:58
 82f295f6-ec11-4706-aee8-9e32b312a20d,equation.sucks,available,278.98,298,high,low,8,namecheap,,,28/09/2026 19:06
 ac7d7ba3-1a4f-4d66-8944-b5080839563d,laughed.sucks,available,213.15,213.15,medium,low,7,dynadot,,,28/09/2026 12:59
 1ce4a493-d6d1-4eaa-9e3c-454682c7bdaf,kathleen.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,25/09/2026 14:34
+a3803850-5f3b-4d2b-8ff8-35cf5d850a56,thessaloniki.sucks,available,218.99,218.99,medium,low,12,namesilo,,,29/09/2026 15:14
 7367a81e-6cda-46ba-9b8d-8d6108a8bc2d,graduated.sucks,available,218.99,218.99,high,low,9,namesilo,,,11/08/2026 14:18
 903e5f53-00fb-4807-a836-7618b9e21ab8,waits.sucks,available,278.98,298,medium,low,5,namecheap,,,28/09/2026 11:43
 65b40635-749c-4343-bcd2-f99ded83becc,speaks.sucks,available,218.99,218.99,medium,low,6,namesilo,,,16/09/2026 07:20
 fbcb0b67-eddb-472e-bf55-52b5461caa76,proceeds.sucks,available,205.46,213.14,high,low,8,porkbun,,,29/09/2026 01:54
 a98217f4-a178-40e5-95e6-7f0fbeb2686d,pyramid.sucks,premium,2658.67,2658.67,high,low,7,namesilo,,,08/09/2026 13:53
-97e8c5b9-f84a-49a0-8185-4c102ac6fe78,triennial.sucks,available,278.98,298,medium,low,9,namecheap,,,11/09/2026 19:31
+97e8c5b9-f84a-49a0-8185-4c102ac6fe78,triennial.sucks,available,278.98,298,high,low,9,namecheap,,,11/09/2026 19:31
 77c7fb0a-8e0c-4151-84dc-263132521819,sarcosomal.sucks,available,278.98,298,high,medium,10,namecheap,,,09/09/2026 21:29
-532cbffb-4f77-4899-b310-d16d8378266c,outcomes.sucks,available,218.99,218.99,medium,low,8,namesilo,,,19/09/2026 12:31
+532cbffb-4f77-4899-b310-d16d8378266c,outcomes.sucks,available,218.99,218.99,high,low,8,namesilo,,,19/09/2026 12:31
 c5d4abf7-70a6-4f5c-8207-acc2bd813baf,reborn.sucks,premium,2728.7,2728.7,high,low,6,namecheap,,,10/08/2026 20:11
 b70f0d84-f8e2-41ee-8a64-67ac1fba3d54,ilama.sucks,available,278.98,298,medium,low,5,namecheap,,,19/09/2026 10:33
 2481944c-3016-49fb-aabd-10483cf8fb72,richelieu.sucks,premium,2728.7,2728.7,medium,low,9,namecheap,,,20/09/2026 06:31
@@ -368,17 +401,18 @@ c2ef06c1-208d-4a6c-94a0-0401c4509d80,guerilla.sucks,available,218.99,218.99,high
 19c67371-ade9-407e-8b31-a12e20cc957d,foretell.sucks,available,278.98,298,high,low,8,namecheap,,,21/09/2026 03:34
 30589d5e-0123-4e6a-89f4-bb149a4c5cc2,circinate.sucks,available,218.99,218.99,high,low,9,namesilo,,,
 c765ac6e-9748-412d-8d3b-b9a1e86f0bd7,mangled.sucks,available,218.99,218.99,medium,low,7,namesilo,,,24/08/2026 14:53
-c06bdca9-e52d-496b-8395-a884f487276e,beckley.sucks,available,278.98,298,medium,low,7,namecheap,,,22/09/2026 22:43
+c06bdca9-e52d-496b-8395-a884f487276e,beckley.sucks,available,278.98,298,high,low,7,namecheap,,,22/09/2026 22:43
 d54de83a-26ad-4172-b307-6ab52832bf2e,darling.sucks,available,218.99,218.99,high,low,7,namesilo,,,09/08/2026 13:48
 0f03cc10-c764-4cae-aa76-ed7ac45d6b6d,luminous.sucks,available,218.99,218.99,high,low,8,namesilo,,,
 e7a1c8c4-8248-47ad-a9c0-780ae811166a,kfc.sucks,premium,2658.67,2658.67,high,low,3,namesilo,,,16/09/2026 23:46
 4339f86b-b15a-4dc5-9d55-2f4195e67c15,sulfur.sucks,available,278.98,298,high,low,6,namecheap,,,20/09/2026 22:28
 3c4ecc08-6f9e-4a4f-a3a7-8324dd208b3c,ciliary.sucks,available,218.99,218.99,medium,low,7,namesilo,,,12/08/2026 08:04
 be35c00a-b237-4eaa-9055-878f42d05c6d,acrylic.sucks,available,218.99,218.99,high,low,7,namesilo,,,17/09/2026 04:05
-7100f87a-e66c-4a2f-aeb4-5256c0c1a2ce,date.sucks,premium,2938.6,2938.6,high,low,4,namecheap,,,
+7100f87a-e66c-4a2f-aeb4-5256c0c1a2ce,date.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,29/09/2026 13:13
 95976d77-d392-4e89-b3a6-0cf2a29f2499,elias.sucks,available,218.99,218.99,high,low,5,namesilo,,,
 3c1dd218-e9cb-4979-9140-8d9e17cc4d6a,trials.sucks,available,218.99,218.99,medium,low,6,namesilo,,,18/09/2026 17:43
 d7132df7-59db-4392-aece-317b954aba39,weinberg.sucks,available,218.99,218.99,medium,low,8,namesilo,,,28/09/2026 10:58
+5a399f00-1746-403d-9bbb-472886dc8713,quota.sucks,available,205.46,213.14,high,low,5,porkbun,,,29/09/2026 07:55
 e87d3055-3326-45fd-a8ce-e5f7d0f5a1c6,bale.sucks,available,278.98,298,medium,low,4,namecheap,,,21/09/2026 21:49
 d2c8b904-5ac8-4690-8641-cf2aacff04e9,systemic.sucks,available,218.99,218.99,high,low,8,namesilo,,,11/09/2026 06:46
 01ae66b5-568f-4b25-a96d-657da18186f8,coincidence.sucks,available,218.99,218.99,high,low,11,namesilo,,,27/09/2026 21:29
@@ -402,14 +436,16 @@ cae44930-743c-49e2-b850-f294fcca4909,requester.sucks,available,218.99,218.99,med
 8f733ad6-8989-49d0-b917-e828447cbfdf,protrude.sucks,available,218.99,218.99,high,low,8,namesilo,,,08/09/2026 23:44
 c630c3da-5d37-43c0-8310-9175ff5837f9,kenalog.sucks,available,218.99,218.99,medium,low,7,namesilo,,,20/09/2026 05:49
 f42089c7-fb7b-4930-a837-ee62ecb7bdd3,drug.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,25/09/2026 00:15
+10b6e480-68b8-4f6c-be5a-8b33b8f29192,fai.sucks,available,218.99,218.99,high,low,3,namesilo,,,29/09/2026 09:08
 dd5d159d-e2dd-44fe-8719-2545288d13bb,tasked.sucks,available,218.99,218.99,medium,low,6,namesilo,,,20/09/2026 17:24
+c80240d5-7ff0-44d3-8e65-25edae681123,implications.sucks,available,218.99,218.99,medium,low,12,namesilo,,,29/09/2026 17:18
 82f806d7-09f8-4d88-ad56-f1f2bd5e6349,spoke.sucks,available,218.99,218.99,high,low,5,namesilo,,,25/09/2026 10:31
 b534cbee-05d0-4cd4-bd3e-163e32b47093,arhat.sucks,available,218.99,218.99,medium,low,5,namesilo,,,20/09/2026 05:05
 b9ddd5d3-3c60-4926-a6f4-b5388f58ed2e,freddie.sucks,available,218.99,218.99,high,low,7,namesilo,,,26/09/2026 03:15
 319dba9c-2166-4b18-8a9c-a90088011c92,participating.sucks,available,298,,medium,low,13,namecheap,,,
 0f06f4dd-1bd8-4b1c-8b4a-21c3ef04e8c6,sells.sucks,available,218.99,218.99,high,low,5,namesilo,,,28/09/2026 03:41
 4a40bf31-321c-4e6c-bcc4-72bb58c8149e,puppet.sucks,available,218.99,218.99,high,low,6,namesilo,,,28/09/2026 02:20
-6942f7ae-3d46-4d66-a220-e33669ddfa12,edged.sucks,available,,,medium,low,5,,,,13/08/2026 13:14
+6942f7ae-3d46-4d66-a220-e33669ddfa12,edged.sucks,available,,,high,low,5,,,,13/08/2026 13:14
 fc820ca9-6396-4226-9436-771603242de9,nomothetic.sucks,available,278.98,298,medium,low,10,namecheap,,,03/09/2026 18:22
 77ea5595-b046-49a2-afeb-465632fe4dc4,ards.sucks,available,218.99,218.99,high,low,4,namesilo,,,17/09/2026 10:14
 053bd86d-6948-4a27-a365-4e77f7b3ee20,squally.sucks,available,218.99,218.99,low,low,7,namesilo,,,10/09/2026 17:18
@@ -421,14 +457,17 @@ b906cacd-c600-469c-9e5d-e36093fff9d1,first.sucks,premium,2728.7,2728.7,high,medi
 a4d80c0b-bc6d-46ff-a45b-3f6c607c7fe0,beet.sucks,available,218.99,218.99,high,low,4,namesilo,,,23/09/2026 01:49
 18cc9c56-9d96-46de-96cf-ed40f7f97629,deaf.sucks,available,,,high,low,4,,,,13/08/2026 19:42
 9d053c60-6ded-4463-9a27-1d173b1e0b83,hearsay.sucks,available,218.99,218.99,high,low,7,namesilo,,,21/08/2026 02:04
-9979151e-3517-44f9-b3f2-c9c27eb0b8b2,placing.sucks,available,205.46,213.14,medium,low,7,porkbun,,,28/09/2026 21:04
+9979151e-3517-44f9-b3f2-c9c27eb0b8b2,placing.sucks,available,205.46,213.14,high,low,7,porkbun,,,28/09/2026 21:04
 8970a707-9600-4716-b3da-2dd98ee39762,nonlethal.sucks,available,218.99,218.99,medium,low,9,namesilo,,,03/09/2026 19:40
 1ebd61bd-e2a2-47a9-b879-223a4a86b438,tara.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,28/09/2026 15:26
-c6d1037b-beb5-4e79-9f4a-d6dd8d8f5e34,jacks.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,
+beaccc25-aad6-414a-b2fc-c0fd114424fd,landmark.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,29/09/2026 13:16
+c6d1037b-beb5-4e79-9f4a-d6dd8d8f5e34,jacks.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,30/09/2026 00:29
 e4cbfb98-31bd-4fe5-9319-808e12c7ced7,catarrhal.sucks,available,278.98,298,medium,low,9,namecheap,,,11/08/2026 21:09
+da25dbed-84ba-4d97-aa0c-1c6c9158e43e,manhood.sucks,available,278.98,298,high,low,7,namecheap,,,29/09/2026 19:12
 cfeddbd5-6958-4192-9e39-ac74fd3c283a,backbeat.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,21/09/2026 14:59
 a93eb4a1-eef8-456c-bb4e-51fce1697177,vindictive.sucks,available,218.99,218.99,medium,low,10,namesilo,,,14/08/2026 04:21
-0006bd4a-243c-4225-9410-95e070f8a5aa,deterrent.sucks,available,218.99,218.99,medium,low,9,namesilo,,,14/08/2026 04:48
+0006bd4a-243c-4225-9410-95e070f8a5aa,deterrent.sucks,available,218.99,218.99,high,low,9,namesilo,,,14/08/2026 04:48
+45ed6b46-4fcc-4851-b5fe-98715b3c289a,abelian.sucks,available,205.46,213.14,high,low,7,porkbun,,,29/09/2026 08:39
 f7733ccf-0236-4e47-8e68-d3a4c2cdf2f1,ipsus.sucks,available,218.99,218.99,medium,low,5,namesilo,,,22/09/2026 15:09
 fe1600d8-3353-455f-95d9-b3dd28715ee6,unchecked.sucks,available,218.99,218.99,medium,low,9,namesilo,,,12/09/2026 04:32
 49ebb4ca-bce0-42f2-9499-f822877e07af,abasic.sucks,available,218.99,218.99,medium,low,6,namesilo,,,
@@ -440,6 +479,7 @@ d508bad1-8be2-40c8-8675-677799e6c9c1,hominal.sucks,available,218.99,218.99,mediu
 9aeae96a-863b-4e29-a386-ed1901d8da04,quixotic.sucks,available,278.98,298,medium,low,8,namecheap,,,09/09/2026 09:04
 b7648403-62c3-457c-bd30-8c812b42f4d3,nonionic.sucks,available,278.98,298,medium,low,8,namecheap,,,03/09/2026 19:33
 a0e59c63-57f3-451a-8192-f9416c3abc36,duncan.sucks,available,218.99,218.99,high,low,6,namesilo,,,25/09/2026 05:02
+c226828e-289f-424c-a20b-57975d26292f,intoxicated.sucks,available,218.99,218.99,medium,low,11,namesilo,,,30/09/2026 03:42
 55ef0ed2-a4cb-4e61-80cf-4fd33095fb41,breast.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,24/09/2026 08:29
 e0215ea8-cba1-4b0b-ac2b-8d5f5c23c70a,built.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,23/09/2026 10:20
 6e97e03c-864f-4ec0-97ab-489e5046ddee,cambridge.sucks,premium,2658.67,2658.67,high,low,9,namesilo,,,24/09/2026 11:51
@@ -455,18 +495,21 @@ e0215ea8-cba1-4b0b-ac2b-8d5f5c23c70a,built.sucks,premium,2658.67,2658.67,high,lo
 689b91c9-ceb5-440f-aa3d-0010f9f66bc3,partial.sucks,available,218.99,218.99,high,low,7,namesilo,,,08/09/2026 02:01
 80f76bc3-608c-4cbf-a45c-c17730beda95,ashir.sucks,available,218.99,218.99,medium,low,5,namesilo,,,20/09/2026 13:53
 b32b5d20-a7e5-4ab7-99b1-281372fa7be6,technetium.sucks,available,218.99,218.99,medium,low,10,namesilo,,,20/09/2026 23:06
-92982adf-d357-4457-bbab-a224aa2cf215,priestly.sucks,available,218.99,218.99,medium,low,8,namesilo,,,21/08/2026 08:22
+92982adf-d357-4457-bbab-a224aa2cf215,priestly.sucks,available,218.99,218.99,high,low,8,namesilo,,,21/08/2026 08:22
 71bb2a2a-2543-405c-9a5f-e20952b37fb6,allegedly.sucks,premium,2728.7,2728.7,high,low,9,namecheap,,,13/09/2026 19:04
 25153844-bd64-46ee-a250-350757337e1c,atheist.sucks,available,218.99,218.99,high,low,7,namesilo,,,22/09/2026 10:58
+fd71eba1-aac7-4a07-9f84-b054eadb7b0b,dale.sucks,premium,2728.7,2728.7,high,low,4,namecheap,,,29/09/2026 12:00
 b16f9156-5d53-4518-8da6-3d9baa8275f4,backyard.sucks,available,278.98,298,high,low,9,namecheap,,,21/09/2026 16:22
 6fcd42c4-73ab-4bcf-a61e-9b7c488a43c8,thief.sucks,premium,2938.6,2938.6,high,low,5,namecheap,,,
 113b0782-9408-4ac6-8ab7-e480a25cc794,quash.sucks,available,218.99,218.99,high,low,5,namesilo,,,13/09/2026 06:42
 28afdc7e-94e1-4015-882c-2575acff4776,refractile.sucks,available,218.99,218.99,high,medium,10,namesilo,,,09/09/2026 12:47
 8d9fdbdd-c260-464a-99f4-ffc1aa1f25a5,performance.sucks,available,218.99,218.99,high,low,11,namesilo,,,25/09/2026 16:44
+7f8aa3a5-272c-4617-8d66-de7d06a323a3,fsa.sucks,premium,2728.7,2728.7,high,low,3,namecheap,,,29/09/2026 08:40
 fd254146-78a8-4b31-84ea-b21734d2a234,beveridge.sucks,available,218.99,218.99,medium,low,9,namesilo,,,23/09/2026 12:04
 6d984c71-fef5-4890-9a18-71d11181e8ab,dominical.sucks,available,218.99,218.99,medium,low,9,namesilo,,,14/08/2026 15:42
-20c25831-0a49-438c-85c6-a8f085000e84,videos.sucks,available,278.98,298,medium,low,6,namecheap,,,28/09/2026 03:36
+20c25831-0a49-438c-85c6-a8f085000e84,videos.sucks,available,278.98,298,high,low,6,namecheap,,,28/09/2026 03:36
 abe47b86-68e3-4c52-9e61-dacf92436ebf,becquerel.sucks,available,218.99,218.99,medium,low,9,namesilo,,,19/09/2026 15:23
+5e98e1f1-2656-4312-913c-74dace82a8b7,wilshire.sucks,available,205.46,213.14,medium,low,8,porkbun,,,29/09/2026 22:35
 5b3e863d-fbe5-4cf3-943f-4204c806f4ee,tiptoe.sucks,available,218.99,218.99,medium,low,6,namesilo,,,11/09/2026 16:21
 7f97429f-1be8-4b2a-bc49-40eb6302d80a,students.sucks,premium,2728.7,2728.7,high,low,8,namecheap,,,25/09/2026 18:00
 f26eb40a-5148-40d4-a0c0-1f770ae35a6c,pyknotic.sucks,available,218.99,218.99,high,medium,8,namesilo,,,09/09/2026 06:50
@@ -480,6 +523,7 @@ b6a2afa0-3572-4b4b-8cf8-fe65ba0001fd,bacchus.sucks,available,218.99,218.99,high,
 a16cdfca-8156-495d-a9bc-b0983d223762,mannheim.sucks,available,218.99,218.99,high,low,8,namesilo,,,28/09/2026 10:19
 a4fdd75e-ab43-49f1-9c58-38e60ac45b8e,gide.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,19/09/2026 04:13
 02d98403-d47e-44e0-b280-8e64ac241c2f,behind.sucks,available,278.98,298,high,low,6,namecheap,,,22/09/2026 18:54
+336c3bba-4b87-4035-b632-eaa24a7489d3,correspond.sucks,available,213.15,213.15,high,low,10,dynadot,,,29/09/2026 19:02
 dcac7831-7fef-4969-9b8d-62c1092559ce,esthetic.sucks,available,278.98,298,high,low,8,namecheap,,,21/09/2026 21:16
 c8f7aeea-9476-4942-965a-4dd58d2feca8,cadillac.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,
 ac51da06-595d-43f0-991d-8f2f9c8c2cf6,colorado.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,24/09/2026 13:30
@@ -496,11 +540,13 @@ f61d1c6a-4a1f-4bcb-94ec-b490bf9c3938,steven.sucks,premium,2658.67,2658.67,high,l
 8c126d38-9d6b-40ef-9f9d-004d4ced6939,supposedly.sucks,available,218.99,218.99,medium,low,10,namesilo,,,28/09/2026 16:34
 902c125b-0e86-457c-9b59-aa7874cf71e9,montevideo.sucks,premium,2658.67,2658.67,high,low,10,namesilo,,,24/09/2026 12:30
 6cc000b9-c2ea-4f4a-8a92-20141a03da72,craft.sucks,premium,2658.67,2658.67,high,medium,5,namesilo,,,24/09/2026 03:48
+c097a6ba-2be4-4f28-9866-838da253e513,overload.sucks,available,218.99,218.99,high,low,8,namesilo,,,29/09/2026 13:38
 16e12819-2dbd-4868-89b8-a0b2ef4422a5,ruse.sucks,available,218.99,218.99,medium,low,4,namesilo,,,20/09/2026 11:33
 d1dd8663-1412-4917-b2c6-578256a5bbe0,wastewater.sucks,available,218.99,218.99,medium,low,10,namesilo,,,15/08/2026 15:34
 8352e41d-9af3-4387-a5a6-ea58f2e10b5c,alas.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,13/09/2026 18:37
 7edaf20b-ad49-4723-84ce-fc4456a30808,neonatal.sucks,available,218.99,218.99,medium,low,8,namesilo,,,03/09/2026 15:27
 7e030258-08b9-41aa-8e50-81ecaa709861,wakening.sucks,available,218.99,218.99,high,low,8,namesilo,,,28/09/2026 23:37
+18373825-c423-4c6f-8090-abab26b1832c,bumped.sucks,available,213.15,213.15,medium,low,6,dynadot,,,29/09/2026 21:29
 efa88e2d-400b-4648-bc7e-0718a6c1d4ce,contained.sucks,available,218.99,218.99,high,low,9,namesilo,,,23/09/2026 21:42
 b5084296-27f6-4412-ab95-a1a5f7a7419a,hothead.sucks,available,,,medium,low,7,,,,13/08/2026 17:45
 d94612e3-7d18-4e64-b966-a698bf9e0afb,freckled.sucks,available,218.99,218.99,medium,low,8,namesilo,,,18/08/2026 14:26
@@ -539,23 +585,27 @@ f4f3128d-83a7-43f7-9b22-3bc0d04f176b,alabama.sucks,premium,2182.75,2182.75,high,
 e762414f-01ee-4001-b05f-b7b2e25c13ff,denis.sucks,premium,2728.7,2728.7,high,low,5,namecheap,,,25/09/2026 15:03
 6fa03253-2f24-426b-a8d1-d08768d26e45,planted.sucks,available,218.99,218.99,high,low,7,namesilo,,,24/09/2026 04:59
 ac94ca48-3827-45fe-af3e-b0400ad7639f,imprudent.sucks,available,218.99,218.99,medium,low,9,namesilo,,,21/08/2026 23:23
+8263bf0e-e4fd-46a6-8928-3a949a778d5a,obituary.sucks,available,218.99,218.99,high,low,8,namesilo,,,29/09/2026 13:33
 db6c5898-27c4-4ec3-be31-7dd8167d17a7,apples.sucks,available,218.99,218.99,high,low,6,namesilo,,,18/09/2026 14:01
 eed02b38-a391-4bf4-b5db-df7b4901a1fc,ballpark.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,19/09/2026 22:25
 0de848b8-2d87-4e52-9f03-02da5a0cd812,treat.sucks,available,218.99,218.99,high,low,5,namesilo,,,24/09/2026 04:23
+2a9a5856-5fd1-4f23-a029-1a789cf45f0b,snowden.sucks,premium,2658.67,2658.67,medium,low,7,namesilo,,,29/09/2026 11:15
+bca472d4-2350-492d-a23b-e2db62b97ea2,woodlawn.sucks,available,213.15,213.15,medium,low,8,dynadot,,,29/09/2026 22:48
 0c96235f-9440-415d-9b2d-23113bcace38,fecund.sucks,available,218.99,218.99,medium,low,6,namesilo,,,18/08/2026 00:34
 1a998307-c61f-4020-86c8-dd5418012705,disarmer.sucks,available,218.99,218.99,medium,low,8,namesilo,,,04/09/2026 22:39
 4c13757e-9b34-43f0-8ca4-192682abe817,sitter.sucks,available,218.99,218.99,high,low,6,namesilo,,,11/08/2026 06:16
 be313294-e8fa-4b53-83e1-e5f383707a5c,beltway.sucks,available,218.99,218.99,high,low,7,namesilo,,,23/09/2026 07:15
 8f4e0be4-38ca-4995-8a9b-2d3eca7604cd,seyhan.sucks,available,218.99,218.99,medium,low,6,namesilo,,,17/09/2026 06:19
 e27d0d46-eb51-4aba-90ed-a2b4c2b287b4,after.sucks,available,278.98,298,high,low,5,namecheap,,,21/09/2026 22:16
+819b2252-bc02-4730-af79-ef60de04f324,extensively.sucks,available,278.98,298,medium,low,11,namecheap,,,29/09/2026 20:59
 fa25a3f9-d928-4b62-af49-09d3a0cf5ad0,typewriters.sucks,available,278.98,298,medium,low,11,namecheap,,,21/09/2026 07:13
 2a8df708-9cc9-48f3-82e8-59e894f7bb42,asterism.sucks,available,218.99,218.99,high,low,8,namesilo,,,20/09/2026 17:12
 93bd87cd-b751-4130-85ba-05d56e65a9b1,pernicious.sucks,available,218.99,218.99,medium,low,10,namesilo,,,08/08/2026 12:01
 5a840702-3e7d-4d06-ba8e-392f1484cf93,unimpeded.sucks,available,218.99,218.99,medium,low,9,namesilo,,,12/09/2026 13:10
 42cc4342-a08f-40d3-9521-37fdcbfa5676,leverage.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,29/09/2026 01:34
 a0c78a6a-b6d7-4dfd-9e85-2120b12a75f8,wry.sucks,available,218.99,218.99,high,low,3,namesilo,,,22/08/2026 10:08
-69dd6894-844c-4d28-9ecf-b057c577780e,advisor.sucks,available,218.99,218.99,high,low,7,namesilo,,,25/09/2026 05:10
-f2c9e042-fff5-4384-a766-604fbfb01dcd,pictures.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,25/09/2026 16:28
+69dd6894-844c-4d28-9ecf-b057c577780e,advisor.sucks,available,218.99,218.99,high,low,7,namesilo,,,29/09/2026 08:01
+f2c9e042-fff5-4384-a766-604fbfb01dcd,pictures.sucks,premium,2182.75,2182.75,high,low,8,porkbun,,,29/09/2026 19:18
 9728175d-44d9-4b13-aee0-6b4fe48a9ed8,enchained.sucks,available,218.99,218.99,medium,low,9,namesilo,,,12/08/2026 01:24
 c081caca-fe22-45a6-8af3-f5886fc7e03b,melting.sucks,available,218.99,218.99,high,low,7,namesilo,,,23/08/2026 23:35
 9b674319-328e-4614-b245-a44bf9d2d67e,jurisdiction.sucks,available,218.99,218.99,high,low,12,namesilo,,,28/09/2026 22:34
@@ -563,14 +613,16 @@ c081caca-fe22-45a6-8af3-f5886fc7e03b,melting.sucks,available,218.99,218.99,high,
 866884be-acaf-488a-83a7-92ec9b69682b,jointly.sucks,available,218.99,218.99,medium,low,7,namesilo,,,28/09/2026 14:08
 848053a4-a0d1-4efd-9095-34b269c62cad,oliver.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,25/09/2026 08:05
 a7273718-941c-42c6-adae-93d15196b528,innocent.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,12/08/2026 10:16
+e6eeffb9-3c45-4350-9280-eb7f623f23cc,tenure.sucks,available,213.15,213.15,high,low,6,dynadot,,,29/09/2026 19:18
 387233b5-b113-4e2c-8710-47777fb9b099,heights.sucks,available,218.99,218.99,high,low,7,namesilo,,,27/09/2026 13:59
 c2599442-3a1c-4407-9e13-268bbb32ab5f,automatism.sucks,available,218.99,218.99,medium,low,10,namesilo,,,21/09/2026 06:59
 3a3812ca-abd3-4508-b8e8-0e1557535846,auntie.sucks,available,218.99,218.99,high,low,6,namesilo,,,21/09/2026 04:11
 9b4af67d-481c-438f-af6c-044f58b4471b,opium.sucks,premium,2658.67,2658.67,medium,low,5,namesilo,,,29/09/2026 01:45
 ba3cfddf-29e5-4edc-9f17-e904338d6b5b,speckless.sucks,available,218.99,218.99,medium,low,9,namesilo,,,21/08/2026 20:42
-9a8a9715-db29-4f71-a32f-3c1bd9ae7307,laudable.sucks,available,218.99,218.99,medium,low,8,namesilo,,,06/08/2026 07:01
+9a8a9715-db29-4f71-a32f-3c1bd9ae7307,laudable.sucks,available,218.99,218.99,high,low,8,namesilo,,,06/08/2026 07:01
+7e8b71f7-faf1-46d1-9943-1e800748f2cf,muller.sucks,available,278.98,298,high,low,6,namecheap,,,29/09/2026 18:58
 d604dceb-0c8f-4092-9d68-2e76f56866df,ahmad.sucks,available,278.98,298,high,low,5,namecheap,,,27/09/2026 07:37
-89dddfd3-42ab-4f85-b15d-ef696b601ecc,antilles.sucks,premium,2728.7,2728.7,medium,low,8,namecheap,,,19/09/2026 14:37
+89dddfd3-42ab-4f85-b15d-ef696b601ecc,antilles.sucks,premium,2728.7,2728.7,high,low,8,namecheap,,,19/09/2026 14:37
 34dc6bac-0515-404d-b2b3-24b21a67f950,camps.sucks,available,213.15,213.15,medium,low,5,dynadot,,,28/09/2026 18:04
 f269c2cb-f2e4-444f-894e-f40873ef607b,inevitable.sucks,available,218.99,218.99,high,low,10,namesilo,,,25/09/2026 09:24
 14e380f4-5824-468f-8459-baeb22a650f2,philly.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,
@@ -583,8 +635,9 @@ f269c2cb-f2e4-444f-894e-f40873ef607b,inevitable.sucks,available,218.99,218.99,hi
 0ad2d782-db93-4322-8604-aa6bfca64dbe,untracked.sucks,available,218.99,218.99,medium,low,9,namesilo,,,08/09/2026 10:31
 27518950-cc3c-43f8-89c1-73eae0ddd1ad,diocese.sucks,available,218.99,218.99,high,low,7,namesilo,,,23/09/2026 21:58
 f3909bef-52e1-4495-b863-1283c08f5ebb,evenfall.sucks,available,218.99,218.99,medium,low,8,namesilo,,,11/09/2026 21:46
+bd2c4aa8-1ca2-4fe3-aa7c-e44cf77e66e1,deceived.sucks,premium,2198.9,2198.9,low,low,8,dynadot,,,29/09/2026 23:13
 1ff5d773-f14f-4556-9321-a71115b45aac,pebbly.sucks,available,218.99,218.99,medium,low,6,namesilo,,,20/08/2026 18:47
-ad9341a7-84ff-48f1-9c87-e557f21bf7b7,patiently.sucks,available,278.98,298,medium,low,9,namecheap,,,15/09/2026 19:20
+ad9341a7-84ff-48f1-9c87-e557f21bf7b7,patiently.sucks,available,278.98,298,high,low,9,namecheap,,,15/09/2026 19:20
 0b477fa2-0b90-42b4-b30c-3d4ef23192cd,plebeian.sucks,available,278.98,298,medium,low,8,namecheap,,,08/09/2026 21:00
 7a3f06be-4e31-4096-8976-fe533764f113,bassoon.sucks,available,218.99,218.99,high,low,7,namesilo,,,22/09/2026 12:33
 e5547287-f54e-4bb6-8e55-986364b4f383,despised.sucks,available,218.99,218.99,medium,low,8,namesilo,,,14/08/2026 04:10
@@ -607,8 +660,9 @@ abae5880-318f-4d17-a4d5-8d10a6487df6,grouse.sucks,available,218.99,218.99,high,l
 f07f9252-fe91-45cd-8ab7-5f26e90a6104,tour.sucks,premium,2728.7,2728.7,high,low,4,namecheap,,,24/09/2026 22:26
 96aa5cbf-d3ff-40d7-b4e4-afb6ddda12a5,cobb.sucks,premium,2658.67,2658.67,medium,low,4,namesilo,,,28/09/2026 15:39
 c07b9809-f106-455d-89c1-70a1232bafcc,neighbor.sucks,available,218.99,218.99,high,low,8,namesilo,,,
-e608038b-001c-40f3-9c33-0e4ba53f3c17,guitar.sucks,premium,2938.6,2938.6,high,low,6,namecheap,,,
+e608038b-001c-40f3-9c33-0e4ba53f3c17,guitar.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,29/09/2026 21:44
 b7e2c129-def3-4405-a42f-9e3adf0f2a40,tops.sucks,available,218.99,218.99,high,low,4,namesilo,,,27/09/2026 21:56
+9a422842-9995-4f02-afcb-68cbeba55571,escapes.sucks,available,205.46,213.14,medium,low,7,porkbun,,,29/09/2026 05:18
 8ab9a125-edc7-49b6-b2d1-d92395e00bda,garb.sucks,available,278.98,298,high,low,4,namecheap,,,19/09/2026 19:56
 686f89a8-6992-4d97-8b80-d99bf17343cb,isotonic.sucks,available,218.99,218.99,high,low,8,namesilo,,,22/08/2026 11:18
 8283c92d-9b90-408e-bb04-8391a2e8cd13,colour.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,23/09/2026 15:08
@@ -618,7 +672,7 @@ e1b0753f-bcf2-4218-ac84-a291c71f7d01,dread.sucks,available,218.99,218.99,high,lo
 e8c0d7f9-b9e8-447a-a8db-67963b0d2ea2,apostrophe.sucks,available,278.98,298,high,low,10,namecheap,,,19/09/2026 19:30
 3195ed3d-0fd1-48b3-bcdf-9e6db71ff263,premedical.sucks,available,218.99,218.99,high,medium,10,namesilo,,,09/09/2026 01:40
 e540eecc-b349-4180-9e89-19e5d91d6016,confess.sucks,available,218.99,218.99,high,low,7,namesilo,,,
-1014da51-3d10-437f-8852-a3e9983faa66,defensible.sucks,available,218.99,218.99,medium,low,10,namesilo,,,13/08/2026 23:11
+1014da51-3d10-437f-8852-a3e9983faa66,defensible.sucks,available,218.99,218.99,high,low,10,namesilo,,,13/08/2026 23:11
 dad67089-e372-4d40-843c-47abb7e94c75,areas.sucks,premium,2658.67,2658.67,medium,low,5,namesilo,,,27/09/2026 10:01
 b0d64036-a54a-44f4-a948-0c461246f6cf,assignable.sucks,available,218.99,218.99,medium,low,10,namesilo,,,07/08/2026 06:19
 77d0e43f-e889-4638-aaa0-ef82880fd7f6,distinguish.sucks,available,205.46,213.14,high,low,11,porkbun,,,28/09/2026 21:05
@@ -628,24 +682,29 @@ bc304042-dd69-499b-a0a5-62884b5de3d3,ecru.sucks,available,218.99,218.99,medium,l
 1fc93468-e119-47bd-be8f-03218aa76718,developed.sucks,available,278.98,298,high,low,9,namecheap,,,24/09/2026 07:51
 0b492d17-d112-4e72-9b37-49fd57f0d693,claiming.sucks,available,218.99,218.99,high,low,8,namesilo,,,28/09/2026 11:29
 7569bcc3-8268-4ca5-8ae4-f87445046dcc,swimmer.sucks,available,218.99,218.99,high,low,7,namesilo,,,22/09/2026 13:29
-0f0cc2cc-a9ff-4eeb-a702-dd66a4d37c4b,mixing.sucks,available,218.99,218.99,high,low,6,namesilo,,,
+0f0cc2cc-a9ff-4eeb-a702-dd66a4d37c4b,mixing.sucks,available,218.99,218.99,high,low,6,namesilo,,,29/09/2026 10:24
+ac9ed131-7feb-483f-bbd8-9df0507d4f85,radiator.sucks,available,213.15,213.15,high,low,8,dynadot,,,29/09/2026 20:06
 4c7d6c19-f38f-42a8-b6a7-b5d2106f49cd,employable.sucks,available,218.99,218.99,high,low,10,namesilo,,,16/08/2026 18:22
-88dbfa95-90d0-4f8b-8289-b090c1342d45,plucked.sucks,available,278.98,298,medium,low,7,namecheap,,,08/09/2026 21:28
+88dbfa95-90d0-4f8b-8289-b090c1342d45,plucked.sucks,available,278.98,298,high,low,7,namecheap,,,08/09/2026 21:28
 e6dce4b5-95d6-44cd-9acd-30cfa02738b8,sagacious.sucks,available,278.98,298,high,low,9,namecheap,,,08/09/2026 18:02
 bbf43a43-9f14-4e52-81d4-e31ec2f8e19e,coins.sucks,available,278.98,298,high,medium,5,namecheap,,,16/09/2026 08:35
 ad9bd750-b26e-4c1e-afa2-9a30761de89c,borgia.sucks,premium,2658.67,2658.67,medium,low,6,namesilo,,,18/09/2026 05:55
+02cbbfe9-2ed4-43eb-99db-829a2ca2d341,freezer.sucks,available,218.99,218.99,high,low,7,namesilo,,,29/09/2026 07:08
 396d80cb-0e49-480f-a6fa-d65900f2fbbc,demode.sucks,available,218.99,218.99,medium,low,6,namesilo,,,14/08/2026 01:13
 5324188a-23c9-4032-ae61-4fe7c2c28420,eudaemonic.sucks,available,218.99,218.99,medium,low,10,namesilo,,,17/08/2026 14:10
 3462616e-30b7-4839-af7a-9d585cc28f4c,sentiment.sucks,available,278.98,298,high,low,9,namecheap,,,28/09/2026 15:00
 5b261f6f-2eca-40eb-b6cc-3aa89676c714,males.sucks,premium,2658.67,2658.67,medium,low,5,namesilo,,,18/09/2026 00:29
+68ec1371-a8ab-4040-ba46-11c74797f24e,dod.sucks,available,99.99,399.99,high,low,3,godaddy,,,30/09/2026 01:18
 2670a30a-9106-48d9-8f77-20870416498a,antwerp.sucks,available,218.99,218.99,medium,low,7,namesilo,,,19/09/2026 15:48
 523d68e6-32fe-49ed-8237-9eaed91a4911,contribute.sucks,available,205.46,213.14,high,low,10,porkbun,,,28/09/2026 06:58
 d338d4d1-8031-4496-8e57-cb00743a473c,gamin.sucks,available,218.99,218.99,medium,low,5,namesilo,,,11/09/2026 14:56
 1883472f-462e-4b2c-9489-0f70890a6d90,luxuriant.sucks,available,218.99,218.99,high,low,9,namesilo,,,15/08/2026 22:14
+817f2a6f-fe06-49c4-9ef4-fd70f328bdf1,middlebury.sucks,premium,2182.75,2182.75,medium,low,10,porkbun,,,29/09/2026 15:53
 d294a09b-4fa6-47f5-8f69-a1aba8aa0b8b,waterfall.sucks,available,213.15,213.15,high,low,9,dynadot,,,28/09/2026 20:46
 cea8c856-1fbd-41a2-a5e1-d16efad435c1,radcliffe.sucks,available,218.99,218.99,medium,low,9,namesilo,,,27/09/2026 07:53
 6c45be6e-0aa3-491c-9889-e80cb0a413fa,gaudy.sucks,available,218.99,218.99,medium,low,5,namesilo,,,18/08/2026 06:37
-126c8979-1f2d-4702-b6b6-684d40b8936d,concordant.sucks,available,278.98,298,medium,low,10,namecheap,,,12/08/2026 20:16
+fb8a6d54-4a64-41db-ae5b-eadcfc728b8d,unfold.sucks,available,218.99,218.99,high,low,6,namesilo,,,30/09/2026 03:13
+126c8979-1f2d-4702-b6b6-684d40b8936d,concordant.sucks,available,278.98,298,high,low,10,namecheap,,,12/08/2026 20:16
 2db91706-9d93-47ab-a0ca-1614c90c3c03,present.sucks,premium,2198.9,2198.9,high,low,7,dynadot,,,28/09/2026 12:04
 f50b9d86-fe0f-4489-a4bd-81bfb43a7960,atrovent.sucks,premium,2658.67,2658.67,medium,low,8,namesilo,,,21/09/2026 01:03
 84c00df6-a770-4870-b570-da5bdfaef278,abundant.sucks,available,218.99,218.99,high,low,8,namesilo,,,21/09/2026 15:18
@@ -656,16 +715,18 @@ b78c4b20-a404-466f-ab52-613df7f0e75d,sage.sucks,premium,2658.67,2658.67,high,med
 d6f5bec0-bf79-4a93-a226-d0fd66eb54be,paddlefish.sucks,available,218.99,218.99,medium,low,10,namesilo,,,14/08/2026 20:48
 dbf0ec9a-f116-4fcd-b11f-107e52f21688,squash.sucks,premium,2728.7,2728.7,high,low,6,namecheap,,,28/09/2026 06:22
 1e500a1b-8969-4e5f-8f2a-eae558a68627,dogsit.sucks,available,218.99,218.99,high,low,6,namesilo,,,
-512ce9ec-134b-41f1-a2a7-57637644bd33,texas.sucks,premium,2658.67,2658.67,high,medium,5,namesilo,,,
+512ce9ec-134b-41f1-a2a7-57637644bd33,texas.sucks,premium,2658.67,2658.67,high,medium,5,namesilo,,,30/09/2026 03:10
+9bbb2d17-e407-4d29-8f99-6c825f17cf8f,schmid.sucks,available,218.99,218.99,high,low,6,namesilo,,,29/09/2026 15:01
 70f5474f-2f38-44f5-98b1-71ffa28e7918,xxx.sucks,premium,2658.67,2658.67,high,medium,3,namesilo,,,
 24ae3626-8f7b-4fd3-ae32-b86ef521b4f6,baggage.sucks,available,218.99,218.99,high,low,7,namesilo,,,29/09/2026 00:29
 1dacd39a-acd3-48ae-9d1c-217ef4602ef4,awl.sucks,premium,2658.67,2658.67,high,low,3,namesilo,,,21/09/2026 10:07
 df66ef29-440a-4c6f-8ec6-00e9f7761203,unwavering.sucks,available,218.99,218.99,high,low,10,namesilo,,,18/08/2026 05:12
-cd901813-fab1-478c-83bb-64c92e9c10ba,blistering.sucks,available,218.99,218.99,medium,low,10,namesilo,,,
-7f2b3897-bf3b-49c9-953f-9311333eefbe,oslo.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,
+cd901813-fab1-478c-83bb-64c92e9c10ba,blistering.sucks,available,218.99,218.99,high,low,10,namesilo,,,
+7f2b3897-bf3b-49c9-953f-9311333eefbe,oslo.sucks,premium,2198.9,2198.9,high,low,4,dynadot,,,29/09/2026 06:45
 c710013f-6d6b-4c20-9f9a-3630a030a964,beechnut.sucks,premium,2658.67,2658.67,medium,low,8,namesilo,,,23/09/2026 00:13
 72c1940e-a1ca-4aec-98c1-ee71a0749147,loyal.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,25/09/2026 15:30
 4931ab4c-22ea-4ca2-801f-c358089b9076,diatonic.sucks,available,218.99,218.99,medium,low,8,namesilo,,,14/08/2026 06:21
+004bc42b-ee24-4936-b569-8bc5e3297eb7,superiors.sucks,available,218.99,218.99,medium,low,9,namesilo,,,29/09/2026 05:50
 031cc304-1aad-4502-8faa-bed5f68a35d0,hectically.sucks,available,278.98,298,medium,low,10,namecheap,,,14/09/2026 20:02
 19c77318-0ceb-43ff-9f40-45d6a53fb4ba,sodium.sucks,available,218.99,218.99,high,low,6,namesilo,,,20/09/2026 22:13
 7414649d-7c7e-4fd8-8b44-43429f36b81c,knocks.sucks,available,218.99,218.99,medium,low,6,namesilo,,,20/09/2026 13:49
@@ -673,6 +734,7 @@ c710013f-6d6b-4c20-9f9a-3630a030a964,beechnut.sucks,premium,2658.67,2658.67,medi
 56b86e45-1589-41b4-b672-1881c7215ef7,illicit.sucks,available,218.99,218.99,high,low,7,namesilo,,,21/08/2026 19:50
 54a40813-f660-45d8-a3b9-8dc05311cdb3,raised.sucks,available,218.99,218.99,high,low,6,namesilo,,,23/09/2026 09:46
 30a1a89d-94b3-4a68-97af-30822448f4d7,ergotic.sucks,available,218.99,218.99,medium,low,7,namesilo,,,17/08/2026 12:13
+5f46e2af-4314-40b8-a571-fd9a23b93896,electrons.sucks,available,218.99,218.99,medium,low,9,namesilo,,,29/09/2026 16:19
 f4296aec-2abc-4525-b1be-1ee3de8798f6,unerasable.sucks,available,218.99,218.99,medium,low,10,namesilo,,,22/08/2026 02:39
 d8098e3e-aa20-417b-8669-1a72215552d8,evaluative.sucks,available,218.99,218.99,high,low,10,namesilo,,,06/08/2026 08:13
 e4d91ba7-1fd4-405e-9c55-c734a9b122d8,unbelievable.sucks,available,205.46,213.14,high,low,12,porkbun,,,28/09/2026 07:08
@@ -690,7 +752,7 @@ fec43159-1a7f-4ec9-af73-a6c01966a023,months.sucks,available,278.98,298,high,low,
 8bc05bda-11c8-490c-81d9-a830df29ee44,sip.sucks,premium,2658.67,2658.67,high,low,3,namesilo,,,
 0bc04aea-1bb2-4d59-b602-3428caac276f,worldling.sucks,available,218.99,218.99,medium,low,9,namesilo,,,11/09/2026 10:47
 df6f8769-1e94-4cec-af34-2ff3de0a4ba1,castrated.sucks,available,278.98,298,medium,low,9,namecheap,,,11/08/2026 20:30
-d920db15-839a-4a77-bc2f-4669cbcdc140,truer.sucks,available,218.99,218.99,medium,low,5,namesilo,,,20/09/2026 05:56
+d920db15-839a-4a77-bc2f-4669cbcdc140,truer.sucks,available,218.99,218.99,high,low,5,namesilo,,,20/09/2026 05:56
 803d500e-b211-4184-b378-00a4f45705e0,anxiety.sucks,premium,41400,2658.67,high,low,7,namesilo,,,19/09/2026 15:59
 59c58b78-1978-4cdf-ab09-c7605c5afbd9,meteoric.sucks,available,218.99,218.99,high,low,8,namesilo,,,24/08/2026 21:53
 00a709c8-9b48-4d35-ae00-6d257897e43e,getable.sucks,available,218.99,218.99,medium,low,7,namesilo,,,18/08/2026 23:04
@@ -701,14 +763,14 @@ ccd8e00f-b964-4833-a55e-cc8bd4b29e96,tracks.sucks,available,218.99,218.99,high,l
 fb46eaad-86a5-44ff-ab3b-3b9078546595,skanky.sucks,available,218.99,218.99,medium,low,6,namesilo,,,14/08/2026 10:49
 5b90ecf4-356c-4265-a2ed-cff7a48a8fb9,slushy.sucks,available,218.99,218.99,medium,low,6,namesilo,,,09/08/2026 01:25
 0778d849-a6b4-4ee1-a63e-c1a159326cb2,prayed.sucks,available,218.99,218.99,medium,low,6,namesilo,,,18/09/2026 02:41
-216d6d7f-ef8c-4b1b-952e-dd24ccd7659a,banneret.sucks,available,218.99,218.99,medium,low,8,namesilo,,,22/09/2026 02:54
+216d6d7f-ef8c-4b1b-952e-dd24ccd7659a,banneret.sucks,available,218.99,218.99,high,low,8,namesilo,,,22/09/2026 02:54
 89f75d1a-c67d-41e7-ab18-9e0acf1e79d0,laurels.sucks,available,218.99,218.99,high,low,7,namesilo,,,16/09/2026 22:48
 0ec2d019-ca35-4ddd-8016-37be4cec1477,tarsal.sucks,available,218.99,218.99,medium,low,6,namesilo,,,11/09/2026 08:42
 9bb9a053-312c-4221-8fd6-f7f4383e1d39,extends.sucks,available,278.98,298,medium,low,7,namecheap,,,18/09/2026 17:32
 15bf55ab-9961-4355-9a62-1784e1b0ceeb,scythian.sucks,available,218.99,218.99,medium,low,8,namesilo,,,10/09/2026 00:28
 70110406-2672-4551-a847-ae13c79d7db8,northeast.sucks,premium,2658.67,2658.67,medium,low,9,namesilo,,,28/09/2026 16:59
 5eb15d12-a22e-41e0-834d-d1c034460827,scratched.sucks,available,218.99,218.99,high,low,9,namesilo,,,
-1b31b924-58b2-4cfd-927f-831d4a3a471d,chromium.sucks,premium,2728.7,2728.7,medium,low,8,namecheap,,,20/09/2026 22:39
+1b31b924-58b2-4cfd-927f-831d4a3a471d,chromium.sucks,premium,2728.7,2728.7,high,low,8,namecheap,,,20/09/2026 22:39
 90284d08-4a11-469b-9042-1756f6bbe6ed,cyprinoid.sucks,available,,,medium,low,9,,,,13/08/2026 14:30
 0be4d9c8-8d5e-484f-8de7-fe1bbf12094a,seasonable.sucks,available,218.99,218.99,medium,low,10,namesilo,,,10/09/2026 00:56
 6baae6ef-0487-46b6-9015-1ca59a51366e,originally.sucks,available,218.99,218.99,high,low,10,namesilo,,,15/09/2026 07:14
@@ -731,7 +793,7 @@ f12cb18c-d8fa-4abe-b67d-7757ffd4139e,engraved.sucks,available,218.99,218.99,high
 1ea2cf42-d213-4961-b719-6697cb7505b6,debra.sucks,available,218.99,218.99,medium,low,5,namesilo,,,28/09/2026 16:29
 e2b1c54d-994d-4e5c-8ef2-a9e10219733a,plaza.sucks,available,213.15,213.15,high,low,5,dynadot,,,28/09/2026 06:36
 c1d024b7-6ab5-4dce-838f-4dcb725839ac,maureen.sucks,available,205.46,213.14,medium,low,7,porkbun,,,27/09/2026 19:11
-743aa0ce-04e4-4c29-b6b0-35e79e2d468d,afghani.sucks,available,218.99,218.99,medium,low,7,namesilo,,,
+743aa0ce-04e4-4c29-b6b0-35e79e2d468d,afghani.sucks,available,218.99,218.99,high,low,7,namesilo,,,
 bb50ebde-7fa3-4903-84bf-bae923944f65,wicked.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,24/09/2026 11:13
 4452c86c-a28d-47f0-9dc5-7906ef4b788a,contemplating.sucks,available,218.99,218.99,low,low,13,namesilo,,,18/09/2026 04:50
 910d1cfe-c71f-4d4a-b658-e97defbd50ba,lap.sucks,premium,2728.7,2728.7,high,low,3,namecheap,,,28/09/2026 02:11
@@ -741,33 +803,39 @@ c481fc99-481b-4add-a50f-478ffe9e509a,textual.sucks,available,218.99,218.99,high,
 40367cc8-fe94-4d22-bae3-9acf8aed5de2,vital.sucks,premium,2728.7,2728.7,high,low,5,namecheap,,,18/08/2026 18:16
 15a6ffc3-2ba1-460d-9266-6b585862dbcd,abundance.sucks,available,278.98,298,high,low,9,namecheap,,,16/09/2026 19:01
 ec1cda6d-754c-45d0-be94-b18d8873874d,gleaming.sucks,available,218.99,218.99,high,low,8,namesilo,,,
+ae5d554e-40bc-416e-b386-2efc80ab7748,mortality.sucks,available,218.99,218.99,medium,low,9,namesilo,,,29/09/2026 06:35
+dda86f4b-900d-4b98-822e-4b1e535c4f28,subconscious.sucks,available,205.46,213.14,high,low,12,porkbun,,,30/09/2026 03:47
 81985453-bd63-487c-816c-1b142595798a,moony.sucks,premium,2728.7,2728.7,medium,low,5,namecheap,,,14/08/2026 18:50
 903a7beb-3b41-4ccf-9d16-7ee4421e886d,attractor.sucks,available,218.99,218.99,high,low,9,namesilo,,,21/09/2026 02:12
 74c3e968-6afa-45db-8c40-0d7c7e8d87e1,moth.sucks,available,213.15,213.15,high,low,4,dynadot,,,28/09/2026 19:56
-d8ab4f17-459a-4e51-9c8e-5aab797aad17,astor.sucks,premium,2658.67,2658.67,medium,low,5,namesilo,,,20/09/2026 17:29
+d8ab4f17-459a-4e51-9c8e-5aab797aad17,astor.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,20/09/2026 17:29
+d3230665-494e-47b4-8158-c2917172d2f6,ballard.sucks,available,218.99,218.99,high,low,7,namesilo,,,29/09/2026 22:22
 e12fafd7-167f-4c74-9b2d-36509efa4e3c,skills.sucks,available,218.99,218.99,high,medium,6,namesilo,,,17/09/2026 12:40
 13bb29e4-3fb8-4a0e-b5ac-aa6da822b7aa,diamantine.sucks,available,218.99,218.99,medium,low,10,namesilo,,,14/08/2026 05:52
 01ab947a-b0c0-4ea4-9d25-90d621cec77a,minoan.sucks,available,218.99,218.99,medium,low,6,namesilo,,,24/08/2026 23:59
-54f8c471-cdf3-4489-bb0b-4a7314455839,alfresco.sucks,premium,2658.67,2658.67,medium,low,8,namesilo,,,
+54f8c471-cdf3-4489-bb0b-4a7314455839,alfresco.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,
 83ebb4b1-ebcd-43f2-875b-8564b0198b3f,important.sucks,available,218.99,218.99,high,low,9,namesilo,,,22/09/2026 13:54
 c5d6662c-9206-425c-ac82-866a68aaa8c5,closed.sucks,available,218.99,218.99,high,low,6,namesilo,,,12/08/2026 12:15
 8b0f285f-87b7-4641-b177-b3ddd0414a6e,butterflies.sucks,available,218.99,218.99,high,low,11,namesilo,,,16/09/2026 12:02
 4e81c90c-a773-433d-87d7-a9b947059c8f,allusion.sucks,available,278.98,298,high,low,8,namecheap,,,18/09/2026 12:15
 8db1cf91-d598-4d37-b01b-e1ab89aa872a,slurred.sucks,available,218.99,218.99,medium,low,7,namesilo,,,10/09/2026 11:42
 d7eed779-5e01-4d9e-af36-497a896b0853,patronage.sucks,available,218.99,218.99,high,low,9,namesilo,,,21/09/2026 15:39
+0604dcef-472a-4984-a4f7-0f5a66319a54,mortar.sucks,available,218.99,218.99,high,low,6,namesilo,,,29/09/2026 07:17
 93edffce-3998-4426-b3a1-8c7644b7df46,gadolinium.sucks,available,218.99,218.99,medium,low,10,namesilo,,,20/09/2026 23:27
 c654bfad-d5ae-492a-8ef4-efb20192d874,benet.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,23/09/2026 07:58
-9b25a5ec-e5c5-45ef-bc2c-aba0a8ef2207,zilch.sucks,available,218.99,218.99,medium,low,5,namesilo,,,03/09/2026 22:42
+9b25a5ec-e5c5-45ef-bc2c-aba0a8ef2207,zilch.sucks,available,218.99,218.99,high,low,5,namesilo,,,03/09/2026 22:42
 6e83179e-8ced-467d-9689-754614c68e10,wakeless.sucks,available,218.99,218.99,low,low,8,namesilo,,,13/09/2026 07:45
 19672dba-1f7d-4b6b-a505-dd537790e163,bucolic.sucks,available,218.99,218.99,high,low,7,namesilo,,,06/08/2026 14:14
 4ae0796f-191d-47c5-adbb-79f8e9080508,abusive.sucks,available,218.99,218.99,medium,low,7,namesilo,,,
+229202c1-6a7b-4cd1-b9fb-75bfab2bf1e4,censorship.sucks,premium,2198.9,2198.9,medium,low,10,dynadot,,,29/09/2026 06:17
 63f20b2f-3e2c-4cbe-abff-910bcd081661,sheer.sucks,available,218.99,218.99,high,low,5,namesilo,,,22/09/2026 23:12
 70b02ae7-6db0-4cf1-8883-a055bb8b21f3,tolerate.sucks,available,218.99,218.99,high,low,8,namesilo,,,24/09/2026 10:45
 07e4524f-7edc-4c0c-8269-171c2683c4ca,armful.sucks,available,278.98,298,medium,low,6,namecheap,,,20/09/2026 06:50
 4f014d18-0c23-4e57-aab8-8de365967fef,millennium.sucks,premium,2658.67,2658.67,high,low,10,namesilo,,,24/08/2026 23:15
 16e867bf-049d-4469-a3c3-2f17bfbb83d9,solicit.sucks,available,218.99,218.99,high,low,7,namesilo,,,27/09/2026 16:11
 4fa38f8c-0e15-4d8a-9866-600b7fd4e62b,acetyl.sucks,available,218.99,218.99,medium,low,6,namesilo,,,17/09/2026 00:19
-ebf66cbc-2ca6-4196-8057-5b101bc9c03e,blest.sucks,available,218.99,218.99,medium,low,5,namesilo,,,10/08/2026 14:15
+ebf66cbc-2ca6-4196-8057-5b101bc9c03e,blest.sucks,available,218.99,218.99,high,low,5,namesilo,,,10/08/2026 14:15
+8dcacf6e-c00c-40d9-ab39-cf018bcf8cf3,subdivision.sucks,available,278.98,298,high,low,11,namecheap,,,29/09/2026 21:00
 86c64de6-fdbf-4f31-8ae8-7b6be12acfa8,kali.sucks,available,278.98,298,high,low,4,namecheap,,,22/09/2026 05:54
 39e25a15-ba5a-4a7a-bca7-51062f330811,sickening.sucks,available,218.99,218.99,medium,low,9,namesilo,,,24/08/2026 08:28
 cb61dc65-12e6-4a53-87f5-99f4d8338991,solved.sucks,available,218.99,218.99,high,low,6,namesilo,,,10/09/2026 13:46
@@ -776,12 +844,14 @@ cb61dc65-12e6-4a53-87f5-99f4d8338991,solved.sucks,available,218.99,218.99,high,l
 10d41f46-9951-4ab3-9795-1326e239cb82,veronal.sucks,available,218.99,218.99,medium,low,7,namesilo,,,22/09/2026 04:56
 6c2bf9f0-7514-4c55-9ec3-7ee4412fb7e7,alliaceous.sucks,available,218.99,218.99,medium,low,10,namesilo,,,
 fbeb0103-7b99-47a1-8e66-318c59033bff,armagnac.sucks,available,218.99,218.99,medium,low,8,namesilo,,,20/09/2026 06:29
+c7cd7122-3526-451c-b132-7177c8ec48a9,sticker.sucks,available,205.46,213.14,high,low,7,porkbun,,,30/09/2026 01:12
+25033939-6285-42da-a14d-ca81952acad2,stalker.sucks,available,218.99,218.99,high,low,7,namesilo,,,30/09/2026 02:37
 a614bf20-da50-4831-b888-716ae316ee17,attorneys.sucks,premium,2658.67,2658.67,medium,low,9,namesilo,,,28/09/2026 13:24
 03c99684-a574-4324-9a62-56984c89b33b,analytics.sucks,premium,2658.67,2658.67,high,low,9,namesilo,,,28/09/2026 03:59
 18626e5f-8e92-47c9-a688-4279b0643168,granting.sucks,available,298,,high,low,8,namecheap,,,
 5e99eb29-7f70-4f12-965a-b6575c74931b,seltzer.sucks,available,278.98,298,high,low,7,namecheap,,,24/09/2026 12:47
 446689b7-1103-4c05-9403-e186aab1e538,bassist.sucks,available,278.98,298,medium,low,7,namecheap,,,22/09/2026 12:26
-677fce3a-c9e2-4d29-b50f-51ecdd68dc8e,ruiz.sucks,available,218.99,218.99,medium,low,4,namesilo,,,27/09/2026 07:03
+677fce3a-c9e2-4d29-b50f-51ecdd68dc8e,ruiz.sucks,available,218.99,218.99,high,low,4,namesilo,,,27/09/2026 07:03
 c0f325b1-082e-4b80-93aa-2267a149a6a6,receipts.sucks,available,218.99,218.99,high,low,8,namesilo,,,
 964d29ea-f7cb-4199-b94e-4b398c443cdf,hicks.sucks,available,213.15,213.15,medium,low,5,dynadot,,,28/09/2026 12:48
 7a6b5e2f-7e27-49fc-ba5f-00a962f42094,packs.sucks,available,278.98,298,medium,low,5,namecheap,,,20/09/2026 13:29
@@ -795,13 +865,13 @@ a5c4a358-d2c4-491c-9b02-11b5f6169867,down.sucks,available,278.98,298,high,low,4,
 e04bb379-2e40-4383-bfaf-4e26007660fa,eclectic.sucks,available,218.99,218.99,high,low,8,namesilo,,,14/08/2026 23:43
 ff596e8c-f763-4de5-b2cf-338c6df38fb0,respected.sucks,available,278.98,298,high,low,9,namecheap,,,27/09/2026 12:38
 32fb16dc-52b9-45d0-9d52-a8e8219ab2dd,autotroph.sucks,available,218.99,218.99,medium,low,9,namesilo,,,21/09/2026 07:36
-2824d124-37b9-49d8-b7ed-8bf6f56bce5b,exec.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,
+2824d124-37b9-49d8-b7ed-8bf6f56bce5b,exec.sucks,premium,2728.7,2728.7,high,low,4,namecheap,,,29/09/2026 18:26
 658fa704-40e1-4412-920d-76009febc41a,place.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,24/09/2026 23:57
 cba58a05-20e4-4595-9424-fcb19dfd13b5,scuba.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,19/09/2026 22:55
 cfb24fff-e55c-4fdf-bd11-a1f3cd1eb899,sisterly.sucks,available,218.99,218.99,high,low,8,namesilo,,,10/09/2026 08:52
 adaaa641-3379-43ae-9184-2186613f7475,core.sucks,premium,2658.67,2658.67,high,medium,4,namesilo,,,28/09/2026 15:06
-44543efd-07b7-413a-a562-7d24f69f6b6a,disney.sucks,premium,2658.67,2658.67,high,high,6,namesilo,,,
-cfb8e64a-a94b-46c7-9256-0d63db1e14e0,carob.sucks,available,218.99,218.99,medium,low,5,namesilo,,,18/09/2026 06:50
+44543efd-07b7-413a-a562-7d24f69f6b6a,disney.sucks,premium,2182.75,2182.75,high,high,6,porkbun,,,29/09/2026 15:59
+cfb8e64a-a94b-46c7-9256-0d63db1e14e0,carob.sucks,available,218.99,218.99,high,low,5,namesilo,,,18/09/2026 06:50
 3c759d05-c941-4eb0-b26a-d236f1151a8e,spreadsheet.sucks,available,218.99,218.99,high,low,11,namesilo,,,
 d17bd170-5e3f-4b65-955d-e039e0a39cbe,eery.sucks,available,218.99,218.99,medium,low,4,namesilo,,,15/08/2026 12:45
 baf2c6ce-2cc3-456a-9a77-e860241dca06,bully.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,08/08/2026 12:15
@@ -817,8 +887,9 @@ d8613c4e-3dc8-4cc4-9b79-00f95c7cd2b6,boringly.sucks,available,218.99,218.99,medi
 e55d91ed-dfdc-4b9d-bc39-6703173dfc2e,treats.sucks,available,218.99,218.99,high,low,6,namesilo,,,28/09/2026 05:00
 83c8c330-cf74-4874-97ac-a18d87ad122c,theocratic.sucks,available,218.99,218.99,medium,low,10,namesilo,,,11/09/2026 12:52
 6869dedb-f4b9-4f23-8237-b4b23d88b6f1,jolson.sucks,available,218.99,218.99,medium,low,6,namesilo,,,18/09/2026 01:21
-b6fe7077-04e7-4062-aac4-2596c5fca3d0,ragweed.sucks,available,218.99,218.99,medium,low,7,namesilo,,,23/09/2026 08:50
+b6fe7077-04e7-4062-aac4-2596c5fca3d0,ragweed.sucks,available,218.99,218.99,high,low,7,namesilo,,,23/09/2026 08:50
 9950a9d1-e850-48aa-a57b-5b1b37b433d7,visitor.sucks,available,218.99,218.99,high,low,7,namesilo,,,
+9dbf294c-9144-4db2-a47a-a06f37f62c2f,weaker.sucks,available,218.99,218.99,low,low,6,namesilo,,,29/09/2026 05:14
 f98602d3-dfd5-4a60-9d55-b506b062862e,protocol.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,24/09/2026 16:37
 303e7047-be6f-4f63-a230-233017d26f3f,plausible.sucks,available,278.98,298,high,low,9,namecheap,,,08/09/2026 20:55
 0b65be0e-9e5f-463b-bed8-a873b3a59536,directly.sucks,available,218.99,218.99,high,low,8,namesilo,,,24/09/2026 10:41
@@ -831,24 +902,25 @@ fbad3c16-8067-4fdd-980f-69a6e6a7ce94,sailed.sucks,available,278.98,298,high,low,
 88dff14a-08d3-4185-a07d-5c7fb5eead54,observable.sucks,available,218.99,218.99,high,low,10,namesilo,,,03/09/2026 23:59
 5011a8be-ddb1-444e-b729-629d464e05d6,remembered.sucks,available,218.99,218.99,high,low,10,namesilo,,,17/09/2026 12:04
 74bae26a-e692-43f7-8589-0245f37c4235,assassin.sucks,available,278.98,298,high,low,8,namecheap,,,20/09/2026 15:43
-e4ddb26e-e5dc-477c-961e-3afff9b0a495,microbial.sucks,available,218.99,218.99,medium,low,9,namesilo,,,08/09/2026 09:41
+e4ddb26e-e5dc-477c-961e-3afff9b0a495,microbial.sucks,available,218.99,218.99,high,low,9,namesilo,,,08/09/2026 09:41
 c505dae7-7069-4f98-9aa1-009a9493a795,lank.sucks,available,218.99,218.99,medium,low,4,namesilo,,,22/08/2026 19:32
 b1bf5410-6d43-4c73-894c-6f9b20dd73b9,redhead.sucks,premium,2658.67,2658.67,high,low,7,namesilo,,,21/09/2026 10:48
 e24f651d-5a79-45e1-a631-5d0f880235d0,irving.sucks,available,278.98,298,medium,low,6,namecheap,,,25/09/2026 07:50
 a8f6aa75-82b6-48e8-ac7b-21b3391dae99,marie.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,25/09/2026 17:44
-f6cee58a-9750-4e3b-81c9-7d1f7534bbe7,hearts.sucks,available,218.99,218.99,high,low,6,namesilo,,,
+f6cee58a-9750-4e3b-81c9-7d1f7534bbe7,hearts.sucks,available,213.15,213.15,high,low,6,dynadot,,,29/09/2026 22:26
 3ea09006-3953-4f8d-a5af-8c3dbc44dfa9,ass.sucks,available,,,high,low,3,,,,
-cc7ab045-4b6b-4af8-a31f-7ba2b96123ba,detective.sucks,premium,2658.67,2658.67,high,low,9,namesilo,,,
+cc7ab045-4b6b-4af8-a31f-7ba2b96123ba,detective.sucks,premium,2658.67,2658.67,high,low,9,namesilo,,,29/09/2026 14:16
 182477ac-22cd-4a8c-b940-6dad8a7f9749,baryon.sucks,available,218.99,218.99,medium,low,6,namesilo,,,22/09/2026 09:41
-08a26904-3a6f-44e8-b64d-08e50440833f,lamppost.sucks,available,218.99,218.99,high,low,8,namesilo,,,
+08a26904-3a6f-44e8-b64d-08e50440833f,lamppost.sucks,available,218.99,218.99,high,low,8,namesilo,,,30/09/2026 02:00
 25de655e-08f2-4667-880b-9fc742617d78,franciscan.sucks,premium,2658.67,2658.67,high,low,10,namesilo,,,18/08/2026 14:06
-d4e7a4fc-bbfe-4a3a-afca-9261b8442af5,standards.sucks,available,218.99,218.99,medium,low,9,namesilo,,,27/09/2026 22:53
+d4e7a4fc-bbfe-4a3a-afca-9261b8442af5,standards.sucks,available,218.99,218.99,high,low,9,namesilo,,,27/09/2026 22:53
 b83481c1-3b7c-4569-8320-83c3c908c1ee,baraka.sucks,available,218.99,218.99,high,low,6,namesilo,,,22/09/2026 04:07
 92d6dc0d-ac4d-4952-9871-532236e62db3,petroleum.sucks,available,218.99,218.99,high,low,9,namesilo,,,13/08/2026 08:55
-c6a96640-495d-40da-9092-37d55d24e5be,committee.sucks,available,218.99,218.99,high,low,9,namesilo,,,
-347dc096-cc0a-43cc-aebf-8666eb1eac96,pardon.sucks,available,218.99,218.99,high,low,6,namesilo,,,
+c6a96640-495d-40da-9092-37d55d24e5be,committee.sucks,available,218.99,218.99,high,low,9,namesilo,,,29/09/2026 09:31
+347dc096-cc0a-43cc-aebf-8666eb1eac96,pardon.sucks,available,278.98,298,high,low,6,namecheap,,,29/09/2026 18:25
 bae9ea09-1dee-4533-b245-cd1875dbde4c,exhale.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,
 2907388c-a5cc-414f-bfe9-643d319ef8cb,misses.sucks,available,218.99,218.99,high,low,6,namesilo,,,
+50f5c7b5-5f00-423d-b84e-a5defe720ea5,liang.sucks,available,205.46,213.14,high,low,5,porkbun,,,29/09/2026 22:32
 c8297f58-d4ef-4392-a551-f1cea3f8b328,scarf.sucks,available,205.46,213.14,high,low,5,porkbun,,,28/09/2026 20:23
 211b295e-8b51-41e2-8bf7-f04b8cdcc66c,hooligan.sucks,available,218.99,218.99,medium,low,8,namesilo,,,11/08/2026 08:39
 27bcc710-ec2a-4760-94f1-fdb7b281978e,adapted.sucks,available,218.99,218.99,high,low,7,namesilo,,,21/09/2026 17:02
@@ -861,42 +933,47 @@ bc669ea6-00fa-43c8-be32-b8d03612e825,cellar.sucks,available,218.99,218.99,high,l
 1ff6c0f5-9adf-4254-bf92-d23698309871,skillful.sucks,available,218.99,218.99,high,low,8,namesilo,,,21/09/2026 17:27
 1922dede-17df-47fe-99a6-fe642932b1e4,bulbous.sucks,available,218.99,218.99,medium,low,7,namesilo,,,09/08/2026 13:39
 68da16aa-5414-4eae-84d1-daa039675f38,skew.sucks,available,218.99,218.99,high,low,4,namesilo,,,10/09/2026 09:26
+63bcb146-b837-4c9a-887e-55d99fbf9b39,misdemeanor.sucks,available,218.99,218.99,high,low,11,namesilo,,,30/09/2026 03:29
 db779b58-6a32-40f7-a89c-30e7272e67ee,mithraic.sucks,available,218.99,218.99,medium,low,8,namesilo,,,25/08/2026 01:58
 3c6b7190-505c-4d32-be53-6f5168f419b0,arrowroot.sucks,premium,2658.67,2658.67,medium,low,9,namesilo,,,17/09/2026 00:43
 159a9793-1ac9-41cb-a004-24b6308863b3,formed.sucks,available,218.99,218.99,high,low,6,namesilo,,,18/08/2026 12:09
 65e1d072-0001-45c9-8652-023231d6e76c,progressing.sucks,available,298,,medium,low,11,namecheap,,,
 4fa1e4dc-396d-440e-aad8-d08fcef24f8b,shuha.sucks,available,218.99,218.99,medium,low,5,namesilo,,,10/09/2026 07:04
-2cdb06b6-ed4c-4809-939d-5360130f2af6,discredit.sucks,available,218.99,218.99,high,low,9,namesilo,,,
+b886261e-326c-419f-b7e8-8e74b452a25e,plato.sucks,premium,2198.9,2198.9,high,low,5,dynadot,,,29/09/2026 13:42
+2cdb06b6-ed4c-4809-939d-5360130f2af6,discredit.sucks,available,213.15,213.15,high,low,9,dynadot,,,29/09/2026 15:37
 6e1107b9-895e-428b-9d1a-e71ab3b98a1e,maroon.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,11/08/2026 06:33
-affee0a1-18f5-4cd5-a67a-3db3a5c493ae,ripened.sucks,available,278.98,298,medium,low,7,namecheap,,,09/09/2026 17:55
+affee0a1-18f5-4cd5-a67a-3db3a5c493ae,ripened.sucks,available,278.98,298,high,low,7,namecheap,,,09/09/2026 17:55
 bbf6d2c8-c5d0-41fe-900e-3d5e3cc2dfb0,lithuanian.sucks,available,218.99,218.99,high,low,10,namesilo,,,24/08/2026 07:30
 e54fb247-dfeb-442a-9a62-cab09ebcd75a,warrington.sucks,available,218.99,218.99,medium,low,10,namesilo,,,28/09/2026 07:51
 1cc07c46-069d-4ffd-926f-07c35f63ab56,focuses.sucks,available,278.98,298,medium,low,7,namecheap,,,20/09/2026 21:43
 7e8d0a65-854f-4c49-b023-c1937e401adf,pork.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,26/09/2026 00:07
 ce345cd3-6b9b-453e-8ace-132556c46413,feminine.sucks,available,218.99,218.99,high,low,8,namesilo,,,24/09/2026 17:35
+600d3886-f437-4603-b87d-dc78e1de3a21,jingle.sucks,available,213.15,213.15,high,low,6,dynadot,,,29/09/2026 06:41
 1b2b8826-122a-4e35-8feb-781a8571ce0b,graded.sucks,available,278.98,298,high,low,6,namecheap,,,20/08/2026 17:36
-499976fc-736d-4cf7-abd2-272a1fd746f5,pugin.sucks,available,218.99,218.99,medium,low,5,namesilo,,,21/09/2026 04:06
-47c04d28-6b42-41a7-8564-2bebf06a959f,dripping.sucks,available,218.99,218.99,medium,low,8,namesilo,,,14/09/2026 14:32
+499976fc-736d-4cf7-abd2-272a1fd746f5,pugin.sucks,available,218.99,218.99,high,low,5,namesilo,,,21/09/2026 04:06
+47c04d28-6b42-41a7-8564-2bebf06a959f,dripping.sucks,available,218.99,218.99,high,low,8,namesilo,,,14/09/2026 14:32
 f37e45c2-cb4d-4e8e-9d53-7854c0ac7283,crack.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,
 0405c862-ad14-45ce-b329-6516dff1188a,consensual.sucks,available,218.99,218.99,high,low,10,namesilo,,,12/08/2026 22:31
 af9fc475-4dc1-4a38-a56a-cb369e149971,tipped.sucks,available,218.99,218.99,high,low,6,namesilo,,,07/08/2026 13:33
 d1494598-92de-4ccc-ab78-392bb7c4c285,aliens.sucks,premium,2728.7,2728.7,high,low,6,namecheap,,,19/09/2026 19:25
 369f4a45-4001-49a1-ac41-93e2b5f4663f,deepen.sucks,available,218.99,218.99,high,low,6,namesilo,,,12/08/2026 19:32
 e38c3bab-7286-4329-afc3-5412add4ad87,mural.sucks,available,218.99,218.99,high,low,5,namesilo,,,03/09/2026 11:00
-1cd8ccc8-a6c7-4baa-bc6c-075d71c907b1,fearlessly.sucks,available,218.99,218.99,medium,low,10,namesilo,,,14/09/2026 10:44
+1cd8ccc8-a6c7-4baa-bc6c-075d71c907b1,fearlessly.sucks,available,218.99,218.99,high,low,10,namesilo,,,14/09/2026 10:44
 b16540ad-f7bf-4147-a1a4-fbd79b0eada3,combinations.sucks,available,218.99,218.99,medium,low,12,namesilo,,,17/09/2026 17:12
 68b4a303-3714-4e55-aa5d-1a0d223d5774,zippy.sucks,premium,2658.67,2658.67,high,low,5,namesilo,,,11/08/2026 04:35
 92bf0f78-eea9-4e55-8a0f-3a2200334d21,gillespie.sucks,available,218.99,218.99,high,low,9,namesilo,,,25/09/2026 04:55
-ff77dba6-80cc-401a-a341-aab7c8b3ebcb,fate.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,
+ff77dba6-80cc-401a-a341-aab7c8b3ebcb,fate.sucks,premium,2728.7,2728.7,high,low,4,namecheap,,,29/09/2026 09:19
 9628a19a-0c64-46fc-979e-98a8c5cc58cf,tin.sucks,available,218.99,218.99,high,low,3,namesilo,,,28/09/2026 23:00
 06b5eea7-b07f-434e-b75a-966f3b65a0b8,entering.sucks,available,218.99,218.99,high,low,8,namesilo,,,22/08/2026 01:48
 a3c41c80-16aa-447f-b2c1-29c449fc5018,bites.sucks,available,218.99,218.99,medium,low,5,namesilo,,,28/09/2026 13:24
 12ed76c5-61fe-4d45-ba61-1aee9721b038,servo.sucks,available,218.99,218.99,high,low,5,namesilo,,,10/09/2026 04:57
 9a187007-d537-4d2d-a063-15d40e2a043b,generators.sucks,available,218.99,218.99,medium,low,10,namesilo,,,
-4d5e4e0a-742b-44eb-a425-b9bd07ad6364,tangled.sucks,available,218.99,218.99,medium,low,7,namesilo,,,11/09/2026 07:59
+4d5e4e0a-742b-44eb-a425-b9bd07ad6364,tangled.sucks,available,218.99,218.99,high,low,7,namesilo,,,11/09/2026 07:59
+fe0603a2-69a0-4f6b-ad20-d78fb65e2204,hearings.sucks,available,213.15,213.15,medium,low,8,dynadot,,,29/09/2026 23:58
 3526d8bb-82b3-4aa0-9e71-f746e79b8d9d,herds.sucks,available,278.98,298,medium,low,5,namecheap,,,19/09/2026 20:40
 9cff6c09-e305-4377-81df-3deb704cc257,rearing.sucks,available,218.99,218.99,high,low,7,namesilo,,,09/09/2026 11:04
 037fdb97-a45b-4640-836e-cdd113085540,favored.sucks,available,278.98,298,high,low,7,namecheap,,,22/09/2026 20:01
+d746232b-65db-4e06-8942-cd97c73962a6,seduce.sucks,available,218.99,218.99,high,low,6,namesilo,,,29/09/2026 14:16
 8e638686-7cd8-47d3-b95f-7c864f110cc6,loverly.sucks,available,218.99,218.99,medium,low,7,namesilo,,,24/08/2026 10:16
 ee080a8f-02cd-41d9-b7c9-f7b5a1e40b02,deserving.sucks,available,218.99,218.99,high,low,9,namesilo,,,14/08/2026 03:29
 6058aabd-a634-46cb-b3f9-e738af80a4ad,undeclared.sucks,available,218.99,218.99,medium,low,10,namesilo,,,12/09/2026 07:06
@@ -904,98 +981,21 @@ ee080a8f-02cd-41d9-b7c9-f7b5a1e40b02,deserving.sucks,available,218.99,218.99,hig
 df1a9bd7-b0c9-444e-a207-acf931c8e849,jackhammer.sucks,available,218.99,218.99,high,low,10,namesilo,,,17/09/2026 22:21
 e2661563-88c4-4b0e-b693-77e39327b826,nepali.sucks,available,218.99,218.99,high,low,6,namesilo,,,03/09/2026 15:37
 74377701-b817-4731-95b1-b510a67bf5d4,pathologic.sucks,available,218.99,218.99,medium,low,10,namesilo,,,14/08/2026 10:11
+74217a88-c606-4004-9c78-741f1152c730,tourism.sucks,premium,10917.11,2182.75,high,low,7,porkbun,,,29/09/2026 20:31
 c40de6c2-4bd7-48fa-a6b6-037fb60abc51,bronchial.sucks,available,218.99,218.99,medium,low,9,namesilo,,,11/08/2026 05:35
 bbd780fe-f3c5-4dd3-8777-5f7859d8b770,authorized.sucks,available,218.99,218.99,high,low,10,namesilo,,,22/09/2026 13:48
 303384c6-27c3-40e0-9f59-3d05c3b8e7e8,corps.sucks,available,218.99,218.99,high,low,5,namesilo,,,28/09/2026 22:09
 a0a2daaa-6ec6-4d30-bd96-e81e6e496596,anniversary.sucks,available,218.99,218.99,high,low,11,namesilo,,,
 8c942dda-c117-4a10-9adf-61f59a562616,arch.sucks,available,218.99,218.99,high,medium,4,namesilo,,,22/09/2026 07:38
-7968b7c8-0a9e-479e-a2a6-7e08ea163c5e,jamal.sucks,available,205.46,213.14,medium,low,5,porkbun,,,29/09/2026 03:56
+7968b7c8-0a9e-479e-a2a6-7e08ea163c5e,jamal.sucks,available,205.46,213.14,high,low,5,porkbun,,,29/09/2026 03:56
 0a0eb997-bf5e-48fb-ae9c-25349502f2de,alluvion.sucks,available,278.98,298,medium,low,8,namecheap,,,18/09/2026 12:21
+18514d76-97fa-4302-b8b5-4b23e1ac618b,intake.sucks,premium,2728.7,2728.7,high,low,6,namecheap,,,29/09/2026 06:09
 648e74c0-1a00-467c-9957-3f06c6f83550,clemens.sucks,available,278.98,298,high,low,7,namecheap,,,27/09/2026 12:32
+c554a3d0-cf3e-4475-a87b-92d9eb47f733,reconcile.sucks,available,278.98,298,high,low,9,namecheap,,,29/09/2026 14:15
+4e851625-2519-40fb-8fa8-52c557d432f4,stabilize.sucks,available,218.99,218.99,high,low,9,namesilo,,,30/09/2026 03:14
 f4559c65-1dc5-4d43-afb3-4f93d7ed9550,rapt.sucks,available,218.99,218.99,high,low,4,namesilo,,,14/08/2026 23:50
 b82af3bc-d9e7-41b9-86fd-d6b95bb76882,focus.sucks,premium,2658.67,2658.67,high,medium,5,namesilo,,,19/09/2026 06:53
 1fd2b5e0-c9fe-4587-8ca8-4201dc762c78,nil.sucks,available,218.99,218.99,high,low,3,namesilo,,,03/09/2026 22:28
 604f2f45-a84b-48fa-b9c5-33843cd7dc0d,sandra.sucks,available,205.46,213.14,high,low,6,porkbun,,,27/09/2026 22:38
 bd9e9779-388b-4b95-b112-eed257b6b02c,clxxv.sucks,available,218.99,218.99,medium,low,5,namesilo,,,
 75a29bc0-c8e7-466d-81de-d509c9e27b57,adulterate.sucks,available,218.99,218.99,medium,low,10,namesilo,,,
-22bdaced-c0e7-4d13-b68e-291d9b36be0c,reciprocal.sucks,available,218.99,218.99,high,low,10,namesilo,,,09/09/2026 11:29
-680f51f6-f4a5-46c7-a726-d5077776c147,hang.sucks,available,278.98,298,high,low,4,namecheap,,,28/09/2026 19:01
-38f6751e-0f25-4bb7-9374-609212602327,unquestionable.sucks,available,298,,medium,low,14,namecheap,,,
-95568d55-e78b-4cd4-959e-2a87f92f8b71,allow.sucks,available,218.99,218.99,high,low,5,namesilo,,,06/08/2026 09:03
-bdbb6d95-bc41-4eb3-b745-c128daaef406,angels.sucks,premium,2728.7,2728.7,high,medium,6,namecheap,,,25/09/2026 20:48
-b79325b6-4bbe-49f6-9267-5440a50d3e51,silently.sucks,available,218.99,218.99,medium,low,8,namesilo,,,15/09/2026 15:52
-44d8a24c-c7b4-4695-a887-176a453a3567,abstention.sucks,available,278.98,298,medium,low,10,namecheap,,,16/09/2026 18:27
-38ca9066-41db-4ccf-b80b-eef53783f08d,guild.sucks,available,218.99,218.99,high,low,5,namesilo,,,29/09/2026 01:05
-920ccfff-f6dc-46bc-b32f-b83613bf192b,anyway.sucks,available,218.99,218.99,high,low,6,namesilo,,,28/09/2026 12:17
-f598cd31-8429-446f-aa81-3155d2c1e65b,shadowy.sucks,available,218.99,218.99,medium,low,7,namesilo,,,10/09/2026 05:28
-0d322b29-25bb-4631-879d-987e0a4292a9,organismic.sucks,available,278.98,298,medium,low,10,namecheap,,,04/09/2026 17:49
-779ea5b7-3ed6-4e05-9012-a80008628168,trustee.sucks,available,218.99,218.99,high,medium,7,namesilo,,,09/09/2026 12:53
-85c60008-f0bf-4df0-b4fb-317cc4c5bfd4,apiarian.sucks,available,218.99,218.99,medium,low,8,namesilo,,,05/08/2026 23:53
-809a0931-83c8-49d9-b8cd-3ba7bcf888fa,elimination.sucks,available,218.99,218.99,high,low,11,namesilo,,,28/09/2026 02:39
-23de0936-8f49-4681-b7b1-14e55313cc5d,acquirable.sucks,available,218.99,218.99,medium,low,10,namesilo,,,
-fdb41d77-37b6-492e-96dc-90b39005d635,moravian.sucks,available,218.99,218.99,high,low,8,namesilo,,,25/08/2026 06:14
-70003eeb-6264-4b70-b0a3-e37f5ebe304a,flecked.sucks,available,218.99,218.99,medium,low,7,namesilo,,,14/08/2026 16:30
-984b2768-ce56-420c-a93c-da8c77e651d6,deciders.sucks,available,218.99,218.99,medium,low,8,namesilo,,,20/09/2026 23:38
-c7757236-1d83-43cc-8b0a-23efbb9b2a3e,equanimous.sucks,available,218.99,218.99,high,low,10,namesilo,,,17/08/2026 11:37
-ea311110-b7fc-4f5e-bcd6-2eeac5eb9add,quarrel.sucks,available,218.99,218.99,medium,low,7,namesilo,,,28/09/2026 09:33
-233bcefb-44d3-4ad7-8b17-2cb84c340b6b,remove.sucks,available,218.99,218.99,high,low,6,namesilo,,,21/09/2026 14:40
-c5e40160-fa3b-4f2f-8451-d7f30e060cfa,seedcase.sucks,available,218.99,218.99,medium,low,8,namesilo,,,12/08/2026 15:07
-e136db7f-f3f0-4fdd-98a8-0480dfc6656c,harrison.sucks,available,218.99,218.99,high,low,8,namesilo,,,23/09/2026 08:20
-0d0bc1ec-fb88-4125-9ae9-52d70353007a,saccharine.sucks,available,218.99,218.99,medium,low,10,namesilo,,,12/08/2026 12:48
-e043e31b-5343-4095-a846-ecf88d00de37,bonzer.sucks,available,278.98,298,medium,low,6,namecheap,,,10/08/2026 19:02
-4380eebb-819b-4dc8-bd0d-12e9907c1151,glycogen.sucks,available,218.99,218.99,medium,low,8,namesilo,,,19/09/2026 08:46
-110a8563-2976-4108-a00d-2b1cc357bff6,hannibal.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,27/09/2026 04:24
-d526814d-c036-40ec-962f-e5fbbe865d6a,dishy.sucks,available,218.99,218.99,medium,low,5,namesilo,,,14/08/2026 11:03
-22e5a8b9-63c2-4089-937e-d6c51125d696,icily.sucks,available,218.99,218.99,low,low,5,namesilo,,,15/09/2026 01:36
-35fcbae4-b6d1-4d32-a663-0700416a573f,retire.sucks,available,218.99,218.99,high,low,6,namesilo,,,
-dd95be5e-790f-412a-adee-dab5cf1c3f90,posthumous.sucks,available,218.99,218.99,medium,low,10,namesilo,,,09/09/2026 00:25
-6e33d0cf-2a08-44d5-b4f0-5558bbdf7e2d,bergen.sucks,available,218.99,218.99,high,low,6,namesilo,,,23/09/2026 09:19
-79f0689c-4d00-47d0-b831-7afe86a4c0a9,builds.sucks,available,278.98,298,medium,low,6,namecheap,,,28/09/2026 17:56
-a9134338-2ef7-4632-b25b-38c1193bfd71,moist.sucks,available,,,high,low,5,,,,13/08/2026 16:43
-2122acb1-3b8a-46ef-aa52-b2329872aec6,sombre.sucks,available,218.99,218.99,medium,low,6,namesilo,,,10/09/2026 14:02
-2c99206a-e7f9-4b44-b5b8-1d97c175c5af,antimatter.sucks,available,218.99,218.99,high,low,10,namesilo,,,19/09/2026 14:40
-ecdc776b-324a-4b7a-8408-366dc1dd1e53,ballad.sucks,available,278.98,298,high,low,6,namecheap,,,22/08/2026 21:27
-c3dcbb3c-3a31-4d83-9046-77af249999b3,newberry.sucks,available,218.99,218.99,medium,low,8,namesilo,,,28/09/2026 21:39
-e870fd65-c5e0-48e4-a6c2-1ddfda44b138,gravelly.sucks,available,278.98,298,medium,low,8,namecheap,,,20/08/2026 18:27
-d41745a6-8ec7-4572-9fa1-e2167653765f,cleavage.sucks,available,218.99,218.99,high,low,8,namesilo,,,24/09/2026 15:29
-18d640e4-dadd-4e75-b054-63430857fec9,reflecting.sucks,available,218.99,218.99,high,medium,10,namesilo,,,09/09/2026 12:38
-4f67f05f-abb1-46e8-bed4-b5e0ca18d7f1,boards.sucks,available,213.15,213.15,high,low,6,dynadot,,,29/09/2026 03:05
-c5555aa5-1810-485c-96f2-a1b2c7c23ad6,golden.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,18/08/2026 23:35
-ad7132f9-4db5-49b5-87b3-7bbbe5de75e9,artfully.sucks,available,278.98,298,medium,low,8,namecheap,,,13/09/2026 20:53
-b7930636-21e6-4629-9f95-a48dcd31ac89,lounge.sucks,available,218.99,218.99,high,low,6,namesilo,,,11/09/2026 08:25
-9d5ec694-fd51-4593-8992-ac382bc17965,lao.sucks,premium,2658.67,2658.67,high,low,3,namesilo,,,22/08/2026 19:34
-311228f1-bd92-42dc-9f9c-84ae0b440cf0,abkhaz.sucks,available,218.99,218.99,medium,low,6,namesilo,,,
-5d1da003-355a-4b03-99bb-620ed5d940b5,glory.sucks,premium,2938.6,2938.6,high,low,5,namecheap,,,
-0e2f4564-3b4a-487e-82fe-64f3001e857f,uncritical.sucks,available,218.99,218.99,medium,low,10,namesilo,,,12/09/2026 06:26
-a70da7ec-5aac-4d74-b166-aabf1b0380d2,blatta.sucks,available,218.99,218.99,medium,low,6,namesilo,,,24/09/2026 04:54
-34930530-977d-4db8-b47d-2aa377f279b8,lightning.sucks,premium,2182.75,2182.75,high,medium,9,porkbun,,,27/09/2026 14:47
-b7b75eef-f1a3-4bef-8357-7568abf958ba,wyeth.sucks,premium,2658.67,2658.67,medium,low,5,namesilo,,,19/09/2026 04:48
-41180d52-23c3-46db-8175-2d6e8fbd1343,gaining.sucks,available,218.99,218.99,medium,low,7,namesilo,,,28/09/2026 11:29
-fd6e5f9d-5172-4d49-9de9-76e757b37d7d,fulgent.sucks,available,218.99,218.99,medium,low,7,namesilo,,,10/08/2026 13:45
-e5329b1a-14e1-45c6-a50a-28ea798d5dd2,meddle.sucks,available,218.99,218.99,medium,low,6,namesilo,,,
-29f3970c-64ab-4eec-8556-c4c08987d7b6,baneful.sucks,available,218.99,218.99,low,low,7,namesilo,,,08/08/2026 09:44
-e782df75-332d-4c96-adb9-77a56a26766e,shia.sucks,premium,2198.9,2198.9,medium,low,4,dynadot,,,29/09/2026 02:12
-9bef5255-78e4-4752-90c8-e77dd78f9c84,awhile.sucks,available,218.99,218.99,medium,low,6,namesilo,,,28/09/2026 13:12
-3fab3f36-e261-4e57-b62b-42091d52b65b,mtv.sucks,premium,2182.75,2182.75,high,low,3,porkbun,,,28/09/2026 03:45
-de3dbbab-8c8f-4de4-9dff-d7d6aa2bfb62,oxalis.sucks,available,218.99,218.99,medium,low,6,namesilo,,,10/09/2026 14:35
-f5401eae-75bf-4317-bd77-fd59f2de85a1,except.sucks,available,218.99,218.99,high,low,6,namesilo,,,
-9f4e0027-8b3b-4843-9a92-185f05f41c3c,closely.sucks,available,218.99,218.99,medium,low,7,namesilo,,,28/09/2026 14:00
-ed7f94e3-685f-46a4-9e23-dc7e9e4cbc40,aeriferous.sucks,available,218.99,218.99,medium,low,10,namesilo,,,
-13dfebe5-414a-4180-82aa-5c56daf6f398,auden.sucks,available,218.99,218.99,medium,low,5,namesilo,,,21/09/2026 02:48
-5ce85b80-2e98-4bef-ad62-8c8caa1a3e13,crowded.sucks,available,218.99,218.99,high,low,7,namesilo,,,24/09/2026 02:10
-bb8c153f-ffc1-4862-8038-c78de1abd954,liz.sucks,premium,2658.67,2658.67,high,low,3,namesilo,,,25/09/2026 14:24
-146b2d58-3955-4138-9486-68c141fef2e6,inflated.sucks,available,218.99,218.99,medium,low,8,namesilo,,,21/08/2026 08:47
-336fa5b8-0d65-44bd-8ecf-a75571940a62,needs.sucks,available,278.98,298,high,low,5,namecheap,,,28/09/2026 15:53
-81e75c9e-9952-47de-ad3b-344011688e5a,penis.sucks,available,,,high,low,5,,,,
-38576684-177d-452b-b2f5-f19c9f07a011,plated.sucks,available,218.99,218.99,high,low,6,namesilo,,,17/09/2026 05:15
-e4efcae4-1df9-42e3-97be-15654b7212ab,clam.sucks,available,218.99,218.99,high,low,4,namesilo,,,
-2ee38ae3-c618-40d8-8069-5f2ae22dc01c,centrist.sucks,available,218.99,218.99,high,low,8,namesilo,,,12/08/2026 00:14
-3c2a1952-ac6a-487b-9d77-8d9d23a17b43,duple.sucks,available,218.99,218.99,medium,low,5,namesilo,,,14/08/2026 20:37
-ebae3171-c1e4-4da8-9261-e4e9c2fc9a8f,technique.sucks,premium,2658.67,2658.67,high,low,9,namesilo,,,28/09/2026 08:09
-97d16d90-cecd-4930-880f-88b19b25ba99,system.sucks,premium,2728.7,2728.7,high,medium,6,namecheap,,,28/09/2026 04:06
-ed5c6fbb-811c-4196-968a-8482fad410b8,trounce.sucks,available,218.99,218.99,medium,low,7,namesilo,,,09/08/2026 05:27
-13679458-3194-4138-8338-a012f8a2ccb5,apparition.sucks,premium,2728.7,2728.7,high,low,10,namecheap,,,08/09/2026 18:34
-779ef0e2-44d0-4d41-85c0-2cb5dcd103bd,applicant.sucks,available,218.99,218.99,high,low,9,namesilo,,,19/09/2026 21:53
-9d800279-89aa-4f2c-8a68-cb46b4dfa1c3,solitary.sucks,premium,2658.67,2658.67,high,low,8,namesilo,,,24/08/2026 08:55
-470ce23d-39a5-4e2d-9743-8ee6d3a40cdb,beanfeast.sucks,available,278.98,298,medium,low,9,namecheap,,,22/09/2026 20:29
-9939c332-5659-4d8e-89a4-ff0183671433,hoopla.sucks,premium,2658.67,2658.67,high,low,6,namesilo,,,21/09/2026 23:33

@@ -1,10 +1,10 @@
-# Available .SUCKS One-Word Domains (33,937)
+# Available .SUCKS One-Word Domains (36,325)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C937%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C325%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .sucks one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,937 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,325 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,937 domains · **Median ask:** $1,250.76 · **High-demand under $2,500:** 54
+**Public extract:** 1,000 rows · **Live catalog:** 36,325 domains · **Median ask:** $1,210.59 · **High-demand under $2,500:** 57
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/sucks`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| cet.sucks     | available | $205.46   | $213.14       | medium         | low    | 3      | porkbun   |
+| cel.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
 | fashion.sucks | resell    | —         | —             | high           | medium | 7      | —         |
 | awl.sucks     | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
-| chl.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
+| cet.sucks     | available | $205.46   | $213.14       | medium         | low    | 3      | porkbun   |
 | bib.sucks     | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
-| cxx.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
+| chl.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
 | cow.sucks     | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
-| ddr.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
+| cxx.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
 | dhs.sucks     | premium   | $2,198.90 | $2,198.90     | high           | low    | 3      | dynadot   |
-| dod.sucks     | available | $99.99    | $399.99       | high           | low    | 3      | godaddy   |
+| ddr.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
 | fsa.sucks     | premium   | $2,728.70 | $2,728.70     | high           | low    | 3      | namecheap |
-| erc.sucks     | available | $213.15   | $213.15       | high           | low    | 3      | dynadot   |
+| dei.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
 | iec.sucks     | premium   | $2,658.67 | $2,658.67     | medium         | low    | 3      | namesilo  |
-| fai.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
+| dod.sucks     | available | $99.99    | $399.99       | high           | low    | 3      | godaddy   |
 | kfc.sucks     | premium   | $2,658.67 | $2,658.67     | high           | low    | 3      | namesilo  |
-| fed.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
+| erc.sucks     | available | $213.15   | $213.15       | high           | low    | 3      | dynadot   |
 | lap.sucks     | premium   | $2,728.70 | $2,728.70     | high           | low    | 3      | namecheap |
-| jpl.sucks     | available | $213.15   | $213.15       | high           | low    | 3      | dynadot   |
+| fai.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
 | leo.sucks     | premium   | $2,658.67 | $2,658.67     | high           | medium | 3      | namesilo  |
-| lav.sucks     | available | $218.99   | $218.99       | medium         | low    | 3      | namesilo  |
+| fed.sucks     | available | $218.99   | $218.99       | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,937 live domains                        |
+| 1,000-row public sample | 36,325 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 54 high-demand names under $2,500          |
+| Basic exported fields   | 57 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUCKS One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
